@@ -1,0 +1,5 @@
+import fs from 'node:fs/promises';const path='C:/project-devo/vuyama-catalog/dist/app.js';let a=await fs.readFile(path,'utf8');
+a=a.replace('<div class="filter-title"><span>Filter Koleksi</span>${icon(\'filter\')}</div>', '<div class="filter-title"><span>Filter Koleksi</span><button class="filter-close icon-button" data-action="filters" aria-label="Tutup filter">${icon(\'close\')}</button>${icon(\'filter\')}</div>');
+a=a.replace("case 'filters': {filterPanelOpen=!filterPanelOpen;document.querySelector('.filter-panel').classList.toggle('mobile-open',filterPanelOpen);target.setAttribute('aria-expanded',String(filterPanelOpen));break;}","case 'filters': {filterPanelOpen=!filterPanelOpen;const panel=document.querySelector('.filter-panel');panel.classList.toggle('mobile-open',filterPanelOpen);document.querySelector('.filter-toggle').setAttribute('aria-expanded',String(filterPanelOpen));(filterPanelOpen?panel:document.querySelector('.catalog-toolbar')).scrollIntoView({behavior:reduceMotion()?'auto':'smooth',block:'start'});break;}");
+a=a.replace('14 PILIHAN USAHA</span>', '${packages.length} PILIHAN USAHA</span>');
+await fs.writeFile(path,a);

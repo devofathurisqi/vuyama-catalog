@@ -1,0 +1,4447 @@
+{
+  "checkedAt": "2026-10-15",
+  "sourceRootId": "1RwtruDL86PYi3TVqILmxrZgZ_XGT1zPv",
+  "optimization": "WebP quality 84, maximum 1200px, EXIF corrected",
+  "assets": [
+    {
+      "id": "1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO",
+      "title": "abf809cb-18cc-4554-aaf4-832c8a033411.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1VtP0FyQqOQgNiEycL8DykP1sFE6Td_WO/view?usp=drivesdk",
+      "folder": "4. Pashmina Airtech Ultrasoft",
+      "file": "new-airtech-abf809cb-18cc-4554-aaf4-832c8a033411.webp",
+      "status": "ready",
+      "bytes": 123660,
+      "sourceBytes": 1476998,
+      "originalSize": [
+        2047,
+        2560
+      ]
+    },
+    {
+      "id": "1kIHZWtwSQ67u2E9gs74R9E4Y0HZa8Cml",
+      "title": "2.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1kIHZWtwSQ67u2E9gs74R9E4Y0HZa8Cml/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-2.webp",
+      "status": "ready",
+      "bytes": 107466,
+      "sourceBytes": 2252038,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1XLOola16isj3t-fJw2WpkTw4k3kvdopF",
+      "title": "3.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1XLOola16isj3t-fJw2WpkTw4k3kvdopF/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-3.webp",
+      "status": "ready",
+      "bytes": 104148,
+      "sourceBytes": 2129206,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1HkdJ45YoTor6n9N0roUraPiyYEi6Xtt6",
+      "title": "4.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1HkdJ45YoTor6n9N0roUraPiyYEi6Xtt6/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-4.webp",
+      "status": "ready",
+      "bytes": 194566,
+      "sourceBytes": 2391520,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1SytHZoTbGWZVLwLR6-g3hVI2LfiiFe97",
+      "title": "5.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1SytHZoTbGWZVLwLR6-g3hVI2LfiiFe97/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-5.webp",
+      "status": "ready",
+      "bytes": 98976,
+      "sourceBytes": 2125785,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "170Y1uxFe-9ixeSlU7bwkaZw3MY-GnkX0",
+      "title": "6.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/170Y1uxFe-9ixeSlU7bwkaZw3MY-GnkX0/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-6.webp",
+      "status": "ready",
+      "bytes": 181862,
+      "sourceBytes": 2392777,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1xYhQVVDVpFiLyt-I0YDZklB-32JopKtX",
+      "title": "almond beige.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1xYhQVVDVpFiLyt-I0YDZklB-32JopKtX/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-almond-beige.webp",
+      "status": "ready",
+      "bytes": 145830,
+      "sourceBytes": 834747,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ceJKiI3MgEoXmJ3GgGiquUMVAtU8hK-Y",
+      "title": "ash powder.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ceJKiI3MgEoXmJ3GgGiquUMVAtU8hK-Y/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-ash-powder.webp",
+      "status": "ready",
+      "bytes": 175164,
+      "sourceBytes": 921402,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1XwzJuvN1qk_QaJutkcBLrkxYgs25TVfQ",
+      "title": "biscuit.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1XwzJuvN1qk_QaJutkcBLrkxYgs25TVfQ/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-biscuit.webp",
+      "status": "ready",
+      "bytes": 152924,
+      "sourceBytes": 880022,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1Xn1Us-jT3hqY6Hc7AMNcaWSvV4W4JDXY",
+      "title": "black.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1Xn1Us-jT3hqY6Hc7AMNcaWSvV4W4JDXY/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-black.webp",
+      "status": "ready",
+      "bytes": 160842,
+      "sourceBytes": 915495,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1eGQ_AG3F-tZH0afljlT_Ba1lalqMuilr",
+      "title": "blush.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1eGQ_AG3F-tZH0afljlT_Ba1lalqMuilr/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-blush.webp",
+      "status": "ready",
+      "bytes": 120272,
+      "sourceBytes": 782828,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "16qIMhdL_BXgKoGu-S6gXBnW7789oRLXQ",
+      "title": "brownie.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/16qIMhdL_BXgKoGu-S6gXBnW7789oRLXQ/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-brownie.webp",
+      "status": "ready",
+      "bytes": 180468,
+      "sourceBytes": 921584,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1PvwkW3Lz1KD_2n1noo7MC-EtvMt3dPZQ",
+      "title": "charcoal.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1PvwkW3Lz1KD_2n1noo7MC-EtvMt3dPZQ/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-charcoal.webp",
+      "status": "ready",
+      "bytes": 106152,
+      "sourceBytes": 839133,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "18b5x0qm_D6roehBaSqTXhkuTTT__-pMa",
+      "title": "cinnamon.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/18b5x0qm_D6roehBaSqTXhkuTTT__-pMa/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-cinnamon.webp",
+      "status": "ready",
+      "bytes": 129776,
+      "sourceBytes": 759406,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "14uDC3E4Se1eJzK3bFigpCIZiyQiQ2_Cm",
+      "title": "dim grey.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/14uDC3E4Se1eJzK3bFigpCIZiyQiQ2_Cm/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-dim-grey.webp",
+      "status": "ready",
+      "bytes": 109232,
+      "sourceBytes": 815065,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1HAzFDd8rmyzIyOZP8-QvCjVca-4ff9G1",
+      "title": "f25c4b2d-42e3-4a1b-8e15-d774a104cd47.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1HAzFDd8rmyzIyOZP8-QvCjVca-4ff9G1/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-f25c4b2d-42e3-4a1b-8e15-d774a104cd47.webp",
+      "status": "ready",
+      "bytes": 106934,
+      "sourceBytes": 1814787,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1gn1VZyWtOTJq3Db3ik-ooKWzL1y4c6xM",
+      "title": "flint.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1gn1VZyWtOTJq3Db3ik-ooKWzL1y4c6xM/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-flint.webp",
+      "status": "ready",
+      "bytes": 112992,
+      "sourceBytes": 762477,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1TPT490-21j9A_I33CqVspSStX9EK603q",
+      "title": "heather.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1TPT490-21j9A_I33CqVspSStX9EK603q/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-heather.webp",
+      "status": "ready",
+      "bytes": 173750,
+      "sourceBytes": 836562,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1U_8NI0so_iPKzBprUjsossHk5IsfPsA7",
+      "title": "maroon.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1U_8NI0so_iPKzBprUjsossHk5IsfPsA7/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-maroon.webp",
+      "status": "ready",
+      "bytes": 134202,
+      "sourceBytes": 832729,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1jqK9EQ6a3XzgBLuCQGeCNOHJetMezuXa",
+      "title": "milk tea.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1jqK9EQ6a3XzgBLuCQGeCNOHJetMezuXa/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-milk-tea.webp",
+      "status": "ready",
+      "bytes": 129884,
+      "sourceBytes": 860446,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1a_BXZyfg-rBieUwZicDZUSd4PgjQmsLc",
+      "title": "mocca blush.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1a_BXZyfg-rBieUwZicDZUSd4PgjQmsLc/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-mocca-blush.webp",
+      "status": "ready",
+      "bytes": 120810,
+      "sourceBytes": 763865,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1fQQV7ir7RDPJ5rNT-iFLcgv4lfM8Ah4D",
+      "title": "oat.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1fQQV7ir7RDPJ5rNT-iFLcgv4lfM8Ah4D/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-oat.webp",
+      "status": "ready",
+      "bytes": 85554,
+      "sourceBytes": 740869,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1-aVtWdHuKWhCy-bn0kXFwY4LGOjWP1CV",
+      "title": "pashmina_oval_instan_panduan_ukuran_max_2mb.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1-aVtWdHuKWhCy-bn0kXFwY4LGOjWP1CV/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-pashmina-oval-instan-panduan-ukuran-max-2mb.webp",
+      "status": "ready",
+      "bytes": 175434,
+      "sourceBytes": 382162,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1aWa4LvWyVbidubZgzocjNpOkFqsF9IYX",
+      "title": "soft lilac.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1aWa4LvWyVbidubZgzocjNpOkFqsF9IYX/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-soft-lilac.webp",
+      "status": "ready",
+      "bytes": 159544,
+      "sourceBytes": 850518,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1WvbR0Rt7O_zgLsE8-T1wr5eFGwABlRvj",
+      "title": "storm.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1WvbR0Rt7O_zgLsE8-T1wr5eFGwABlRvj/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-storm.webp",
+      "status": "ready",
+      "bytes": 202658,
+      "sourceBytes": 922540,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1GtTglfgSzX0_HYI6F1vlD2s-xOb-1WxQ",
+      "title": "vanilla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1GtTglfgSzX0_HYI6F1vlD2s-xOb-1WxQ/view?usp=drivesdk",
+      "folder": "Aisha Khiban/warna",
+      "file": "new-aisha-vanilla.webp",
+      "status": "ready",
+      "bytes": 117134,
+      "sourceBytes": 793884,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1Yz59F6hhAfn7x36IfhPz62O3LRK3uFFT",
+      "title": "FPK202512051.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1Yz59F6hhAfn7x36IfhPz62O3LRK3uFFT/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/READY Raya 2026/Velvet Vol. 1 SOLD",
+      "file": "new-armani-velvet-vol-1-sold-fpk202512051.webp",
+      "status": "ready",
+      "bytes": 73476,
+      "sourceBytes": 7225492,
+      "originalSize": [
+        4000,
+        5328
+      ]
+    },
+    {
+      "id": "133BdVFDXhcaiUOh78cf_ERecH60b6qst",
+      "title": "7.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/133BdVFDXhcaiUOh78cf_ERecH60b6qst/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/READY Raya 2026/Velvet Vol. 10",
+      "file": "new-armani-velvet-vol-10-7.webp",
+      "status": "ready",
+      "bytes": 70080,
+      "sourceBytes": 2365410,
+      "originalSize": [
+        1620,
+        2025
+      ]
+    },
+    {
+      "id": "10y5kfiVPLzE-boFhgcmQuC2_fxTfcG8p",
+      "title": "Series (Instagram Post (45)) - 2.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/10y5kfiVPLzE-boFhgcmQuC2_fxTfcG8p/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/READY Raya 2026/Velvet Vol. 2",
+      "file": "new-armani-velvet-vol-2-series-instagram-post-45-2.webp",
+      "status": "ready",
+      "bytes": 137112,
+      "sourceBytes": 12594801,
+      "originalSize": [
+        2295,
+        2869
+      ]
+    },
+    {
+      "id": "1V66sjIsWRSIeU_JHlwsWXbLJgkjLD59V",
+      "title": "FPK202512199.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1V66sjIsWRSIeU_JHlwsWXbLJgkjLD59V/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/READY Raya 2026/Velvet Vol. 3",
+      "file": "new-armani-velvet-vol-3-fpk202512199.webp",
+      "status": "ready",
+      "bytes": 108274,
+      "sourceBytes": 13041428,
+      "originalSize": [
+        3850,
+        5128
+      ]
+    },
+    {
+      "id": "1gFQeTRt8KR81hA96ulpLgijq9sYcouSU",
+      "title": "5.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1gFQeTRt8KR81hA96ulpLgijq9sYcouSU/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/READY Raya 2026/Velvet Vol. 4",
+      "file": "new-armani-velvet-vol-4-5.webp",
+      "status": "ready",
+      "bytes": 114186,
+      "sourceBytes": 5272525,
+      "originalSize": [
+        1755,
+        2194
+      ]
+    },
+    {
+      "id": "1QfXmi4rPg27DA5JdKkMimlihbNtdTiHI",
+      "title": "1.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1QfXmi4rPg27DA5JdKkMimlihbNtdTiHI/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/READY Raya 2026/Velvet Vol. 5",
+      "file": "new-armani-velvet-vol-5-1.webp",
+      "status": "ready",
+      "bytes": 154840,
+      "sourceBytes": 3320686,
+      "originalSize": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "1qVNq_vX7Qah2Ye0c3TZiMpUtZNa-jV2R",
+      "title": "3.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1qVNq_vX7Qah2Ye0c3TZiMpUtZNa-jV2R/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/READY Raya 2026/Velvet Vol. 7",
+      "file": "new-armani-velvet-vol-7-3.webp",
+      "status": "ready",
+      "bytes": 219668,
+      "sourceBytes": 6402575,
+      "originalSize": [
+        1890,
+        2363
+      ]
+    },
+    {
+      "id": "15llh3_O_QEE_t11kZJIrAqlKrZqgXUXf",
+      "title": "1.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/15llh3_O_QEE_t11kZJIrAqlKrZqgXUXf/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/READY Raya 2026/Velvet Vol. 8",
+      "file": "new-armani-velvet-vol-8-1.webp",
+      "status": "ready",
+      "bytes": 58086,
+      "sourceBytes": 108515,
+      "originalSize": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "1mRS-k5kZGj7n_Qd0rBjI_Qya9_4OWs8k",
+      "title": "1.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1mRS-k5kZGj7n_Qd0rBjI_Qya9_4OWs8k/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/READY Raya 2026/Velvet Vol. 9",
+      "file": "new-armani-velvet-vol-9-1.webp",
+      "status": "ready",
+      "bytes": 71486,
+      "sourceBytes": 2351696,
+      "originalSize": [
+        1620,
+        2025
+      ]
+    },
+    {
+      "id": "1qPMdHXCuhK-lbRuLEtWFYl3RdrKrts1T",
+      "title": "Armani Ori Vol. 1 - 5.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1qPMdHXCuhK-lbRuLEtWFYl3RdrKrts1T/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/Mukena Armani Ori Raya 2025 /Vol. 1 SOLD OUT",
+      "file": "new-armani-vol-1-sold-out-armani-ori-vol-1-5.webp",
+      "status": "ready",
+      "bytes": 164974,
+      "sourceBytes": 3178652,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1p3dqTwWj3RjBplxQvInoEKz7ImLWrcp6",
+      "title": "Armani Ori Vol. 2 - 7.JPG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1p3dqTwWj3RjBplxQvInoEKz7ImLWrcp6/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/Mukena Armani Ori Raya 2025 /Vol. 2 sisa size anak",
+      "file": "new-armani-vol-2-sisa-size-anak-armani-ori-vol-2-7.webp",
+      "status": "ready",
+      "bytes": 102880,
+      "sourceBytes": 565192,
+      "originalSize": [
+        1890,
+        1890
+      ]
+    },
+    {
+      "id": "1wmS0Ypvp_0pBFj4JpPNGcOtvCE5IGp0G",
+      "title": "Pink.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1wmS0Ypvp_0pBFj4JpPNGcOtvCE5IGp0G/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/Mukena Armani Ori Raya 2025 /Vol. 3 SOLD OUT",
+      "file": "new-armani-vol-3-sold-out-pink.webp",
+      "status": "ready",
+      "bytes": 44512,
+      "sourceBytes": 4759714,
+      "originalSize": [
+        3368,
+        6000
+      ]
+    },
+    {
+      "id": "16IDtWhCLEH_K_bMxr0FUcs5DSvnlkRjx",
+      "title": "Coffee.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/16IDtWhCLEH_K_bMxr0FUcs5DSvnlkRjx/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/Mukena Armani Ori Raya 2025 /Vol. 4 SOLD OUT",
+      "file": "new-armani-vol-4-sold-out-coffee.webp",
+      "status": "ready",
+      "bytes": 54038,
+      "sourceBytes": 5875571,
+      "originalSize": [
+        3368,
+        6000
+      ]
+    },
+    {
+      "id": "1B09Ust2OfJhwfHWLbgEU_exNXAJ8cVB4",
+      "title": "Armani Ori Special Vol.5 .zip - 2.JPG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1B09Ust2OfJhwfHWLbgEU_exNXAJ8cVB4/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/Mukena Armani Ori Raya 2025 /Vol. 5 ",
+      "file": "new-armani-vol-5-armani-ori-special-vol-5-zip-2.webp",
+      "status": "ready",
+      "bytes": 116882,
+      "sourceBytes": 7474031,
+      "originalSize": [
+        3375,
+        3375
+      ]
+    },
+    {
+      "id": "18NFHShnZ_JIWG8v3uKoHkOgIC0wCwCVB",
+      "title": "Armani Vol. 5.zip - 2.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/18NFHShnZ_JIWG8v3uKoHkOgIC0wCwCVB/view?usp=drivesdk",
+      "folder": "10. Mukena Armani/Mukena Armani Ori Raya 2025 /Vol. 6",
+      "file": "new-armani-vol-6-armani-vol-5-zip-2.webp",
+      "status": "ready",
+      "bytes": 149034,
+      "sourceBytes": 17902682,
+      "originalSize": [
+        3240,
+        3240
+      ]
+    },
+    {
+      "id": "1qPJ8TtV8jzqEPkNihXRebpBIMZk9K3UF",
+      "title": "ash bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1qPJ8TtV8jzqEPkNihXRebpBIMZk9K3UF/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-ash-bamboo.webp",
+      "status": "ready",
+      "bytes": 69252,
+      "sourceBytes": 668585,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ASge4wLmSk4dFlDtK58msD0B6jP3eD5p",
+      "title": "black bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ASge4wLmSk4dFlDtK58msD0B6jP3eD5p/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-black-bamboo.webp",
+      "status": "ready",
+      "bytes": 52182,
+      "sourceBytes": 564204,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1gdYpiDPPkCb761mmkLXcqPlYouf_7fk3",
+      "title": "blush bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1gdYpiDPPkCb761mmkLXcqPlYouf_7fk3/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-blush-bamboo.webp",
+      "status": "ready",
+      "bytes": 60952,
+      "sourceBytes": 608086,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1UPQGchzxLwOpT3-WyanKelcN9FQWPJiB",
+      "title": "butter cream bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1UPQGchzxLwOpT3-WyanKelcN9FQWPJiB/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-butter-cream-bamboo.webp",
+      "status": "ready",
+      "bytes": 60214,
+      "sourceBytes": 612291,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1hCUd-0v6L305kZxhn8GSWQN2un9QIhnZ",
+      "title": "creamy latte.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1hCUd-0v6L305kZxhn8GSWQN2un9QIhnZ/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-creamy-latte.webp",
+      "status": "ready",
+      "bytes": 83872,
+      "sourceBytes": 2058526,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1x-ILZtF4t0QB7dLZHCY3ryE4eR-g-smy",
+      "title": "creamy rose bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1x-ILZtF4t0QB7dLZHCY3ryE4eR-g-smy/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-creamy-rose-bamboo.webp",
+      "status": "ready",
+      "bytes": 70372,
+      "sourceBytes": 643965,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1L4l_WRTPzwgqy7G3DvYia2amSbJY8o-Z",
+      "title": "dark milobamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1L4l_WRTPzwgqy7G3DvYia2amSbJY8o-Z/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-dark-milobamboo.webp",
+      "status": "ready",
+      "bytes": 71396,
+      "sourceBytes": 652564,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1gGkFJvC3tRxXZtwKY862BYZKtsM98Vsy",
+      "title": "deep beige bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1gGkFJvC3tRxXZtwKY862BYZKtsM98Vsy/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-deep-beige-bamboo.webp",
+      "status": "ready",
+      "bytes": 74368,
+      "sourceBytes": 658084,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1j6u_S0c759Zn-p24Et89JK1b64jwp_ix",
+      "title": "earth bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1j6u_S0c759Zn-p24Et89JK1b64jwp_ix/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-earth-bamboo.webp",
+      "status": "ready",
+      "bytes": 60350,
+      "sourceBytes": 627386,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "11kEIOAdDvjTi_-IgNeraNlvlgNfxFU6v",
+      "title": "frappe bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/11kEIOAdDvjTi_-IgNeraNlvlgNfxFU6v/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-frappe-bamboo.webp",
+      "status": "ready",
+      "bytes": 71474,
+      "sourceBytes": 643791,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1p1su7xJdHDZ_OavtjRxkdjkF6uWoJqcq",
+      "title": "grey bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1p1su7xJdHDZ_OavtjRxkdjkF6uWoJqcq/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-grey-bamboo.webp",
+      "status": "ready",
+      "bytes": 63724,
+      "sourceBytes": 639496,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ex2Odna_76pIcrA79LlI_kCH1EehuX9G",
+      "title": "mahogany bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ex2Odna_76pIcrA79LlI_kCH1EehuX9G/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-mahogany-bamboo.webp",
+      "status": "ready",
+      "bytes": 55912,
+      "sourceBytes": 669349,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1LIFmai9Bz_6LqSN8zsFscnAYSnROsNKG",
+      "title": "maroon bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1LIFmai9Bz_6LqSN8zsFscnAYSnROsNKG/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-maroon-bamboo.webp",
+      "status": "ready",
+      "bytes": 54482,
+      "sourceBytes": 628620,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1utFklKgFq47dSR_AR5knUWMt5V3gJQwJ",
+      "title": "milo bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1utFklKgFq47dSR_AR5knUWMt5V3gJQwJ/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-milo-bamboo.webp",
+      "status": "ready",
+      "bytes": 75118,
+      "sourceBytes": 641969,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1mI3g0_YBcyS5z1nzwQgs2gbHc-7g77x2",
+      "title": "navy bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1mI3g0_YBcyS5z1nzwQgs2gbHc-7g77x2/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-navy-bamboo.webp",
+      "status": "ready",
+      "bytes": 54518,
+      "sourceBytes": 645763,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1Cpg00M54t9bgbiIBMWxEaqYndjSh0tfF",
+      "title": "oat bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1Cpg00M54t9bgbiIBMWxEaqYndjSh0tfF/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-oat-bamboo.webp",
+      "status": "ready",
+      "bytes": 76516,
+      "sourceBytes": 642650,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1LqCFG5gnJNWK84ZPreXvhFVHSZpYH7Jw",
+      "title": "smoke bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1LqCFG5gnJNWK84ZPreXvhFVHSZpYH7Jw/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-smoke-bamboo.webp",
+      "status": "ready",
+      "bytes": 95166,
+      "sourceBytes": 668098,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1l5x67G2NJMvH9MzjjZiRS-mZWk-RWtSZ",
+      "title": "storm bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1l5x67G2NJMvH9MzjjZiRS-mZWk-RWtSZ/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-storm-bamboo.webp",
+      "status": "ready",
+      "bytes": 74904,
+      "sourceBytes": 659916,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ZGhg1VqFWlfL5xRpoXnq5iZ8UQAWf8Bn",
+      "title": "tea rose bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ZGhg1VqFWlfL5xRpoXnq5iZ8UQAWf8Bn/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-tea-rose-bamboo.webp",
+      "status": "ready",
+      "bytes": 61464,
+      "sourceBytes": 608435,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1Dcb2ba6OuJiTGVQ-SlGO8Oo3n2LlP5BV",
+      "title": "vanilla bamboo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1Dcb2ba6OuJiTGVQ-SlGO8Oo3n2LlP5BV/view?usp=drivesdk",
+      "folder": "13. Pashmina Bamboo Spandex/warna",
+      "file": "new-bamboo-vanilla-bamboo.webp",
+      "status": "ready",
+      "bytes": 57590,
+      "sourceBytes": 597354,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1nU4Qz8EriYBTKvyUtALV_AZ146nEczKA",
+      "title": "Serian Warna.zip - 18.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1nU4Qz8EriYBTKvyUtALV_AZ146nEczKA/view?usp=drivesdk",
+      "folder": "5. Gana Pashmina Oval Instan",
+      "file": "new-gana-serian-warna-zip-18.webp",
+      "status": "ready",
+      "bytes": 34696,
+      "sourceBytes": 5487777,
+      "originalSize": [
+        2430,
+        3038
+      ]
+    },
+    {
+      "id": "1fAKX_aIfI8tgDfvFHe3U2HWMVsYRBXUy",
+      "title": "Serian Warna.zip - 19.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1fAKX_aIfI8tgDfvFHe3U2HWMVsYRBXUy/view?usp=drivesdk",
+      "folder": "5. Gana Pashmina Oval Instan",
+      "file": "new-gana-serian-warna-zip-19.webp",
+      "status": "ready",
+      "bytes": 27750,
+      "sourceBytes": 7068801,
+      "originalSize": [
+        2430,
+        3038
+      ]
+    },
+    {
+      "id": "1AgkWsQb29eUtPzba10tlPj9RlN27Yk2g",
+      "title": "Serian Warna.zip - 20.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1AgkWsQb29eUtPzba10tlPj9RlN27Yk2g/view?usp=drivesdk",
+      "folder": "5. Gana Pashmina Oval Instan",
+      "file": "new-gana-serian-warna-zip-20.webp",
+      "status": "ready",
+      "bytes": 31200,
+      "sourceBytes": 7233847,
+      "originalSize": [
+        2430,
+        3038
+      ]
+    },
+    {
+      "id": "1u6sAnC9MQd5y_a2PtHZS5qF4u87SjGqS",
+      "title": "Serian Warna.zip - 21.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1u6sAnC9MQd5y_a2PtHZS5qF4u87SjGqS/view?usp=drivesdk",
+      "folder": "5. Gana Pashmina Oval Instan",
+      "file": "new-gana-serian-warna-zip-21.webp",
+      "status": "ready",
+      "bytes": 36024,
+      "sourceBytes": 5566304,
+      "originalSize": [
+        2430,
+        3038
+      ]
+    },
+    {
+      "id": "1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2",
+      "title": "Serian Warna.png",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1UYr-1x5OVUqHVPtJ-zHutpvhOYbLt1f2/view?usp=drivesdk",
+      "folder": "5. Gana Pashmina Oval Instan",
+      "file": "new-gana-serian-warna.webp",
+      "status": "ready",
+      "bytes": 167524,
+      "sourceBytes": 4682883,
+      "originalSize": [
+        4219,
+        3375
+      ]
+    },
+    {
+      "id": "1N48BWOQv0zUvQrRe3TdsPnWTCh45EIOX",
+      "title": "3ed5e8fb-0be4-4f0a-a6f9-f3d99b651f1d.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1N48BWOQv0zUvQrRe3TdsPnWTCh45EIOX/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-3ed5e8fb-0be4-4f0a-a6f9-f3d99b651f1d.webp",
+      "status": "ready",
+      "bytes": 79626,
+      "sourceBytes": 1541731,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "12eZhrYvZlux-_GH7TGoc8LGQByKkwc3I",
+      "title": "9b6796f0-5546-4c94-a0ba-fffef4ffce40.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/12eZhrYvZlux-_GH7TGoc8LGQByKkwc3I/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-9b6796f0-5546-4c94-a0ba-fffef4ffce40.webp",
+      "status": "ready",
+      "bytes": 104402,
+      "sourceBytes": 2001739,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1B3-u3BYYYHzzEh6goBUBSaoXQRzjEKKc",
+      "title": "almond beige hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1B3-u3BYYYHzzEh6goBUBSaoXQRzjEKKc/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-almond-beige-hawa.webp",
+      "status": "ready",
+      "bytes": 55642,
+      "sourceBytes": 619411,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1IGAVNKhJDL7TRXQZyGaJg3aXQfyXYwJS",
+      "title": "_ash hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1IGAVNKhJDL7TRXQZyGaJg3aXQfyXYwJS/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-ash-hawa.webp",
+      "status": "ready",
+      "bytes": 48072,
+      "sourceBytes": 603478,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1gAg4sojsB9DF6djew5W1wpPqDq2Yl_t8",
+      "title": "black hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1gAg4sojsB9DF6djew5W1wpPqDq2Yl_t8/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-black-hawa.webp",
+      "status": "ready",
+      "bytes": 45008,
+      "sourceBytes": 582435,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1jVUmTUrgbrPb2nHgciCG_Tnrbnd41SxR",
+      "title": "blue sky hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1jVUmTUrgbrPb2nHgciCG_Tnrbnd41SxR/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-blue-sky-hawa.webp",
+      "status": "ready",
+      "bytes": 48570,
+      "sourceBytes": 631088,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ZsLrkuaf-65V70BveeFKS2R8gLiSC3mc",
+      "title": "butter cream hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ZsLrkuaf-65V70BveeFKS2R8gLiSC3mc/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-butter-cream-hawa.webp",
+      "status": "ready",
+      "bytes": 49602,
+      "sourceBytes": 617403,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1joh-1J7ovzbjNwLgqNb5OSxLlgMmF-XK",
+      "title": "cookie hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1joh-1J7ovzbjNwLgqNb5OSxLlgMmF-XK/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-cookie-hawa.webp",
+      "status": "ready",
+      "bytes": 50330,
+      "sourceBytes": 629457,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ie1MWtN116c98C9MCfeCXW4ZI0wVraya",
+      "title": "creamy beige hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ie1MWtN116c98C9MCfeCXW4ZI0wVraya/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-creamy-beige-hawa.webp",
+      "status": "ready",
+      "bytes": 49366,
+      "sourceBytes": 606047,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1a7Eir8TNjc72tXF9ax9ovNyU_JyrK-27",
+      "title": "creamy latte.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1a7Eir8TNjc72tXF9ax9ovNyU_JyrK-27/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-creamy-latte.webp",
+      "status": "ready",
+      "bytes": 60418,
+      "sourceBytes": 1909188,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "10nxaMAqiuBsWy140-_i_JzRMI-7hqen3",
+      "title": "dark milo hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/10nxaMAqiuBsWy140-_i_JzRMI-7hqen3/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-dark-milo-hawa.webp",
+      "status": "ready",
+      "bytes": 59686,
+      "sourceBytes": 624176,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1stOhWmgKnBdT5PoU22L3LTyXjMVtWh9R",
+      "title": "deep beige hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1stOhWmgKnBdT5PoU22L3LTyXjMVtWh9R/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-deep-beige-hawa.webp",
+      "status": "ready",
+      "bytes": 48348,
+      "sourceBytes": 627319,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1S07Qm-6ysDVn2axzvtm7rNCxnaEYFza3",
+      "title": "_earth hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1S07Qm-6ysDVn2axzvtm7rNCxnaEYFza3/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-earth-hawa.webp",
+      "status": "ready",
+      "bytes": 48502,
+      "sourceBytes": 600712,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1SGe3Lp1omTu9vt1AA5nrkahSNXD78CRI",
+      "title": "ee47d9e4-864b-4c8c-b610-0e56e59109d3.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1SGe3Lp1omTu9vt1AA5nrkahSNXD78CRI/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-ee47d9e4-864b-4c8c-b610-0e56e59109d3.webp",
+      "status": "ready",
+      "bytes": 98870,
+      "sourceBytes": 1768938,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1HmKo30tH40AV-GmtW6u9_ojxM38zlayM",
+      "title": "frappe hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1HmKo30tH40AV-GmtW6u9_ojxM38zlayM/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-frappe-hawa.webp",
+      "status": "ready",
+      "bytes": 51670,
+      "sourceBytes": 588083,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1y1jkUi5G7kK8z6dxC7ARMZtr4ogBog8j",
+      "title": "mahogany hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1y1jkUi5G7kK8z6dxC7ARMZtr4ogBog8j/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-mahogany-hawa.webp",
+      "status": "ready",
+      "bytes": 44846,
+      "sourceBytes": 570821,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1A5coJijrkfYkpmvKvOQZ1op0wOslIOM7",
+      "title": "maroon hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1A5coJijrkfYkpmvKvOQZ1op0wOslIOM7/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-maroon-hawa.webp",
+      "status": "ready",
+      "bytes": 45696,
+      "sourceBytes": 616216,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "150iI4uTJ4u-wiHPEtfb3dYLffG4cNTYE",
+      "title": "milo hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/150iI4uTJ4u-wiHPEtfb3dYLffG4cNTYE/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-milo-hawa.webp",
+      "status": "ready",
+      "bytes": 54612,
+      "sourceBytes": 588620,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ghgRMhTsmBJcvFual6jP3btT1gyqFix2",
+      "title": "misty grey hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ghgRMhTsmBJcvFual6jP3btT1gyqFix2/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-misty-grey-hawa.webp",
+      "status": "ready",
+      "bytes": 47836,
+      "sourceBytes": 622797,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1yDF5f3b3w5LB02uQpGcyr1PGR7ZDB-_9",
+      "title": "navy hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1yDF5f3b3w5LB02uQpGcyr1PGR7ZDB-_9/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-navy-hawa.webp",
+      "status": "ready",
+      "bytes": 50688,
+      "sourceBytes": 557033,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1zz0GXvTVh04MFtQyNeJHjb1lAFlUAJm9",
+      "title": "paris_jadul_mustard_max_2mb.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1zz0GXvTVh04MFtQyNeJHjb1lAFlUAJm9/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-paris-jadul-mustard-max-2mb.webp",
+      "status": "ready",
+      "bytes": 102620,
+      "sourceBytes": 329605,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1FvBOJSFN-9bOv28ZqcN1mP2eLekjKxaH",
+      "title": "_soft apricot hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1FvBOJSFN-9bOv28ZqcN1mP2eLekjKxaH/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-soft-apricot-hawa.webp",
+      "status": "ready",
+      "bytes": 53828,
+      "sourceBytes": 595453,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1jpcw76hOT4F5T2rpRBeGpN9O7VPWutRs",
+      "title": "tea flower hawa.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1jpcw76hOT4F5T2rpRBeGpN9O7VPWutRs/view?usp=drivesdk",
+      "folder": "18. Hawa Instan/warna",
+      "file": "new-hawa-tea-flower-hawa.webp",
+      "status": "ready",
+      "bytes": 47556,
+      "sourceBytes": 607449,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "170GKD8dDjXz2NQYUGRNoS85FQktPeS3s",
+      "title": "almond beige hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/170GKD8dDjXz2NQYUGRNoS85FQktPeS3s/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-almond-beige-hayla.webp",
+      "status": "ready",
+      "bytes": 62898,
+      "sourceBytes": 617390,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1RKnpy-TVwD3QWcIFMqabSlsJhlr0sk24",
+      "title": "beige hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1RKnpy-TVwD3QWcIFMqabSlsJhlr0sk24/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-beige-hayla.webp",
+      "status": "ready",
+      "bytes": 63796,
+      "sourceBytes": 623687,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1G0zOfckQvM95I8qiM_VoAHL0ds_-Q1Fe",
+      "title": "biscuit hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1G0zOfckQvM95I8qiM_VoAHL0ds_-Q1Fe/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-biscuit-hayla.webp",
+      "status": "ready",
+      "bytes": 60818,
+      "sourceBytes": 635707,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1rDEQvVjwIW3rDD87R7sBHMM7X37Srg2y",
+      "title": "butter cream hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1rDEQvVjwIW3rDD87R7sBHMM7X37Srg2y/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-butter-cream-hayla.webp",
+      "status": "ready",
+      "bytes": 53830,
+      "sourceBytes": 604785,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "13KMydoGRMVLzTiNpkFlzyjeZhXRO___E",
+      "title": "creamy latte hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/13KMydoGRMVLzTiNpkFlzyjeZhXRO___E/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-creamy-latte-hayla.webp",
+      "status": "ready",
+      "bytes": 56448,
+      "sourceBytes": 610361,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1xi0T8DL8PGEVNrWSbguYjbn2TvojfIbr",
+      "title": "dark milo hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1xi0T8DL8PGEVNrWSbguYjbn2TvojfIbr/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-dark-milo-hayla.webp",
+      "status": "ready",
+      "bytes": 62146,
+      "sourceBytes": 620488,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1W-msejcs0gM85UC_UDQw0lk-orj-UNT-",
+      "title": "deep almond hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1W-msejcs0gM85UC_UDQw0lk-orj-UNT-/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-deep-almond-hayla.webp",
+      "status": "ready",
+      "bytes": 59626,
+      "sourceBytes": 646430,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1fKpTxS7hitg2u-yC1mMuCDmWFG_qM1mu",
+      "title": "dusty hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1fKpTxS7hitg2u-yC1mMuCDmWFG_qM1mu/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-dusty-hayla.webp",
+      "status": "ready",
+      "bytes": 61656,
+      "sourceBytes": 637895,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1E7i1NSOratUvQdMY33XJeN8yaONzN-ct",
+      "title": "earth hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1E7i1NSOratUvQdMY33XJeN8yaONzN-ct/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-earth-hayla.webp",
+      "status": "ready",
+      "bytes": 58860,
+      "sourceBytes": 614286,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1EJFXfiyo19qKXjLnOrbkITC2_aHqmmyr",
+      "title": "mahogany hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1EJFXfiyo19qKXjLnOrbkITC2_aHqmmyr/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-mahogany-hayla.webp",
+      "status": "ready",
+      "bytes": 49432,
+      "sourceBytes": 580902,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1rW8Fk7j3u5qc2IH1aVvE15a3ghAsdx2N",
+      "title": "midnight hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1rW8Fk7j3u5qc2IH1aVvE15a3ghAsdx2N/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-midnight-hayla.webp",
+      "status": "ready",
+      "bytes": 50538,
+      "sourceBytes": 584079,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1YnyF_wLU_dXaen7HfZVi1OCmoyr7W4Lp",
+      "title": "misty grey hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1YnyF_wLU_dXaen7HfZVi1OCmoyr7W4Lp/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-misty-grey-hayla.webp",
+      "status": "ready",
+      "bytes": 56852,
+      "sourceBytes": 622095,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1-up3uKrb7lL7j4WAjsgUh2Ck4-nsM4QV",
+      "title": "navy hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1-up3uKrb7lL7j4WAjsgUh2Ck4-nsM4QV/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-navy-hayla.webp",
+      "status": "ready",
+      "bytes": 46770,
+      "sourceBytes": 589326,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1372yJvCrymgOmKJOfJtHPY1oTNYYttcS",
+      "title": "nude hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1372yJvCrymgOmKJOfJtHPY1oTNYYttcS/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-nude-hayla.webp",
+      "status": "ready",
+      "bytes": 56614,
+      "sourceBytes": 623162,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1E4S4XCccNb0OEYOYaH5MaQDw4AwaIXB3",
+      "title": "olive hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1E4S4XCccNb0OEYOYaH5MaQDw4AwaIXB3/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-olive-hayla.webp",
+      "status": "ready",
+      "bytes": 62128,
+      "sourceBytes": 626270,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1wUKGRq4P8QwGUuJZ00QXexL28gh5-OK6",
+      "title": "sand hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1wUKGRq4P8QwGUuJZ00QXexL28gh5-OK6/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-sand-hayla.webp",
+      "status": "ready",
+      "bytes": 63318,
+      "sourceBytes": 604248,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1AnqUeMUkzYwpZcdl10s94YJguezQIP0e",
+      "title": "soft lilac hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1AnqUeMUkzYwpZcdl10s94YJguezQIP0e/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-soft-lilac-hayla.webp",
+      "status": "ready",
+      "bytes": 55642,
+      "sourceBytes": 627551,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1QSdCXda-G89Tu4ysZL2TGk7xy_P31Pcf",
+      "title": "storm hayla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1QSdCXda-G89Tu4ysZL2TGk7xy_P31Pcf/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-storm-hayla.webp",
+      "status": "ready",
+      "bytes": 73392,
+      "sourceBytes": 1979203,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1qhwJPbh33SAwe5c3FAxmVqE1itHEkVZ9",
+      "title": "storm.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1qhwJPbh33SAwe5c3FAxmVqE1itHEkVZ9/view?usp=drivesdk",
+      "folder": "Hayla Khiban/warna",
+      "file": "new-hayla-storm.webp",
+      "status": "ready",
+      "bytes": 12784,
+      "sourceBytes": 26026,
+      "originalSize": [
+        593,
+        180
+      ]
+    },
+    {
+      "id": "1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk",
+      "title": "Serian Warna.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1OgEiLlLwFIvK2yiwMkX4Ulq7_IVGS8mk/view?usp=drivesdk",
+      "folder": "21. Pashmina Viscose Highlight",
+      "file": "new-highlight-serian-warna.webp",
+      "status": "ready",
+      "bytes": 195734,
+      "sourceBytes": 14885435,
+      "originalSize": [
+        3375,
+        4219
+      ]
+    },
+    {
+      "id": "1x4i9VC9zq_iyTo_XnxwfVGd1T4xyUut4",
+      "title": "almond beige.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1x4i9VC9zq_iyTo_XnxwfVGd1T4xyUut4/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-almond-beige.webp",
+      "status": "ready",
+      "bytes": 84860,
+      "sourceBytes": 661753,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1-ReP6n4ScX4Sr8i50Obmb3jlCbfK7LO8",
+      "title": "beige.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1-ReP6n4ScX4Sr8i50Obmb3jlCbfK7LO8/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-beige.webp",
+      "status": "ready",
+      "bytes": 95016,
+      "sourceBytes": 669692,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1kH7HR94x0nfxYuAEfn7GjqY26oQ4uTEq",
+      "title": "black.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1kH7HR94x0nfxYuAEfn7GjqY26oQ4uTEq/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-black.webp",
+      "status": "ready",
+      "bytes": 52944,
+      "sourceBytes": 639193,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1DXXIkMaBSz5c3FonXr5rd6Tm7Bxfb9Ow",
+      "title": "butter yellow.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1DXXIkMaBSz5c3FonXr5rd6Tm7Bxfb9Ow/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-butter-yellow.webp",
+      "status": "ready",
+      "bytes": 61406,
+      "sourceBytes": 609589,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ic9d8WWRRU1LMnAigCdcrzk2ruyc8ldG",
+      "title": "charcoal.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ic9d8WWRRU1LMnAigCdcrzk2ruyc8ldG/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-charcoal.webp",
+      "status": "ready",
+      "bytes": 93632,
+      "sourceBytes": 686387,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1xbwvhmNACgoI_o13B43j-owo36JIbijW",
+      "title": "choco.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1xbwvhmNACgoI_o13B43j-owo36JIbijW/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-choco.webp",
+      "status": "ready",
+      "bytes": 82494,
+      "sourceBytes": 670987,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1TprzbjBGzRLY4y6gAoDK8ZYlJaeZpwzn",
+      "title": "coffee latte.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1TprzbjBGzRLY4y6gAoDK8ZYlJaeZpwzn/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-coffee-latte.webp",
+      "status": "ready",
+      "bytes": 101016,
+      "sourceBytes": 650753,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1fbxOWNimc4WDWp9BeWgkF6M2dqxhOwwN",
+      "title": "coffee.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1fbxOWNimc4WDWp9BeWgkF6M2dqxhOwwN/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-coffee.webp",
+      "status": "ready",
+      "bytes": 80856,
+      "sourceBytes": 680385,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1BYwSqSRaFEcBE3vgo7jphRQI-iCjW0Mb",
+      "title": "dark beige.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1BYwSqSRaFEcBE3vgo7jphRQI-iCjW0Mb/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-dark-beige.webp",
+      "status": "ready",
+      "bytes": 108816,
+      "sourceBytes": 651495,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "13NeVkFyvivSv5Bqi07g9k3ZM675ZmEPt",
+      "title": "dark latte.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/13NeVkFyvivSv5Bqi07g9k3ZM675ZmEPt/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-dark-latte.webp",
+      "status": "ready",
+      "bytes": 96094,
+      "sourceBytes": 641782,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "18Sirnji-R4gNco-LaFVvph9MpcaiRtjd",
+      "title": "dark oat.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/18Sirnji-R4gNco-LaFVvph9MpcaiRtjd/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-dark-oat.webp",
+      "status": "ready",
+      "bytes": 80134,
+      "sourceBytes": 641333,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1BL07CSGzQtUQw1QV3xk91aDj86X_9TD2",
+      "title": "deep almond.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1BL07CSGzQtUQw1QV3xk91aDj86X_9TD2/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-deep-almond.webp",
+      "status": "ready",
+      "bytes": 94770,
+      "sourceBytes": 652446,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1aseIyT-SetVSNA89JkvjANOnEwR4g1jR",
+      "title": "deep charcoal.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1aseIyT-SetVSNA89JkvjANOnEwR4g1jR/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-deep-charcoal.webp",
+      "status": "ready",
+      "bytes": 72912,
+      "sourceBytes": 665967,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1uQy9g1sdukp4bolzcNTKTZP_Yz3V7Fdv",
+      "title": "dusty (3).png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1uQy9g1sdukp4bolzcNTKTZP_Yz3V7Fdv/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-dusty-3.webp",
+      "status": "ready",
+      "bytes": 75806,
+      "sourceBytes": 639886,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1unzy5ZMF5U_nccZa158FtgU5n-q_Uybr",
+      "title": "flint.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1unzy5ZMF5U_nccZa158FtgU5n-q_Uybr/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-flint.webp",
+      "status": "ready",
+      "bytes": 101984,
+      "sourceBytes": 633953,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1sNixEp2BTuxqFoVPxXXCi3sZmuC3TNWB",
+      "title": "fossil.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1sNixEp2BTuxqFoVPxXXCi3sZmuC3TNWB/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-fossil.webp",
+      "status": "ready",
+      "bytes": 83102,
+      "sourceBytes": 678071,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1VwyWpiAhF8QisdHrU4pUG7r5OimAC7Aw",
+      "title": "grey.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1VwyWpiAhF8QisdHrU4pUG7r5OimAC7Aw/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-grey.webp",
+      "status": "ready",
+      "bytes": 84996,
+      "sourceBytes": 662824,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "194fnneJxyuHwSoBaCKxKWU974fwil7ln",
+      "title": "iron.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/194fnneJxyuHwSoBaCKxKWU974fwil7ln/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-iron.webp",
+      "status": "ready",
+      "bytes": 70632,
+      "sourceBytes": 664706,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1PCr1DPSEmV1vddrI44XvUK0M5sBNvkmL",
+      "title": "jeans.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1PCr1DPSEmV1vddrI44XvUK0M5sBNvkmL/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-jeans.webp",
+      "status": "ready",
+      "bytes": 61624,
+      "sourceBytes": 647008,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1WhHlWiBwTaaL1lzafU-faQFm5hDgjylb",
+      "title": "machiato.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1WhHlWiBwTaaL1lzafU-faQFm5hDgjylb/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-machiato.webp",
+      "status": "ready",
+      "bytes": 71388,
+      "sourceBytes": 634820,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "19iagppyfrFaiUCztRCNIEyhvp0fga470",
+      "title": "mahogany.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/19iagppyfrFaiUCztRCNIEyhvp0fga470/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-mahogany.webp",
+      "status": "ready",
+      "bytes": 78326,
+      "sourceBytes": 1923735,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1suRwzDXwwQPLDaGyUqe_c3XOLLtbjVah",
+      "title": "maroon.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1suRwzDXwwQPLDaGyUqe_c3XOLLtbjVah/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-maroon.webp",
+      "status": "ready",
+      "bytes": 70534,
+      "sourceBytes": 636512,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1bcY7Uej8ndZUipUS7oSniw0D096qWujT",
+      "title": "navy.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1bcY7Uej8ndZUipUS7oSniw0D096qWujT/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-navy.webp",
+      "status": "ready",
+      "bytes": 74748,
+      "sourceBytes": 644057,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1QNI7fdrcfX65jtlBRAHXYQ-GJjv5Wm5r",
+      "title": "powder pink.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1QNI7fdrcfX65jtlBRAHXYQ-GJjv5Wm5r/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-powder-pink.webp",
+      "status": "ready",
+      "bytes": 81748,
+      "sourceBytes": 649997,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1Rh1z3uMh6KoMoUE1FWc3XMQ4NnDpwxVx",
+      "title": "rose quartz.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1Rh1z3uMh6KoMoUE1FWc3XMQ4NnDpwxVx/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-rose-quartz.webp",
+      "status": "ready",
+      "bytes": 92564,
+      "sourceBytes": 648308,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1xYOE7pXVQjBvkYuhx5j9LT52j5AGEs2E",
+      "title": "royal pink.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1xYOE7pXVQjBvkYuhx5j9LT52j5AGEs2E/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-royal-pink.webp",
+      "status": "ready",
+      "bytes": 70020,
+      "sourceBytes": 605385,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1fCiCr2mCzhHh3FIX3Pqg069KKP2uCuf2",
+      "title": "sand.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1fCiCr2mCzhHh3FIX3Pqg069KKP2uCuf2/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-sand.webp",
+      "status": "ready",
+      "bytes": 71712,
+      "sourceBytes": 620648,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "179pptnb1VTn6BcdcAMuFefAqOtfnEGug",
+      "title": "silver.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/179pptnb1VTn6BcdcAMuFefAqOtfnEGug/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-silver.webp",
+      "status": "ready",
+      "bytes": 82016,
+      "sourceBytes": 622237,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1irnehFH__W8Wn2WwZDVxGsyTEpAXhkzR",
+      "title": "soft lilac.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1irnehFH__W8Wn2WwZDVxGsyTEpAXhkzR/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-soft-lilac.webp",
+      "status": "ready",
+      "bytes": 72900,
+      "sourceBytes": 617462,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1aLN0KsgAqXLkgg_lLDmGxrstzmFKRbw0",
+      "title": "storm.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1aLN0KsgAqXLkgg_lLDmGxrstzmFKRbw0/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-storm.webp",
+      "status": "ready",
+      "bytes": 95902,
+      "sourceBytes": 676150,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1chLG5ZgcZKuuJJPh7Qy_SXoricviadLV",
+      "title": "white.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1chLG5ZgcZKuuJJPh7Qy_SXoricviadLV/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-white.webp",
+      "status": "ready",
+      "bytes": 55220,
+      "sourceBytes": 638324,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "188NSMIaf0-EDYNPLvJBcbIRHL6NLJehQ",
+      "title": "wine.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/188NSMIaf0-EDYNPLvJBcbIRHL6NLJehQ/view?usp=drivesdk",
+      "folder": "20. Pashmina Modal Viscose/warna",
+      "file": "new-modal-wine.webp",
+      "status": "ready",
+      "bytes": 57370,
+      "sourceBytes": 613027,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1uc20OpVp6ubnUf6UpOw3r_WwdUfQTWFN",
+      "title": "abalone.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1uc20OpVp6ubnUf6UpOw3r_WwdUfQTWFN/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-abalone.webp",
+      "status": "ready",
+      "bytes": 59768,
+      "sourceBytes": 446374,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1dSTa5jAMCJsyyXqgGUQF-wfGONPvI4jo",
+      "title": "Alice Blue.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1dSTa5jAMCJsyyXqgGUQF-wfGONPvI4jo/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-alice-blue.webp",
+      "status": "ready",
+      "bytes": 66854,
+      "sourceBytes": 423817,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1qIPTzV70DnEzp9Xc75LPj3DxeBZcMWMZ",
+      "title": "almond beige.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1qIPTzV70DnEzp9Xc75LPj3DxeBZcMWMZ/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-almond-beige.webp",
+      "status": "ready",
+      "bytes": 77896,
+      "sourceBytes": 496513,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "16moupGWhzPSBe3OrgLULLiyPNB8kheK0",
+      "title": "Ash.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/16moupGWhzPSBe3OrgLULLiyPNB8kheK0/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-ash.webp",
+      "status": "ready",
+      "bytes": 52552,
+      "sourceBytes": 381028,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1AqKfq0aRmV2vMbOXNnW2a8oj2zoNaJ8W",
+      "title": "baby pink.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1AqKfq0aRmV2vMbOXNnW2a8oj2zoNaJ8W/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-baby-pink.webp",
+      "status": "ready",
+      "bytes": 89920,
+      "sourceBytes": 549668,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1183v9bf8UkdcFzp57YEpB28v-xoZv53z",
+      "title": "beet red.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1183v9bf8UkdcFzp57YEpB28v-xoZv53z/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-beet-red.webp",
+      "status": "ready",
+      "bytes": 75406,
+      "sourceBytes": 419891,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1K4IRS-baKFpaU5GM1_8QBk2q3T6XC0ou",
+      "title": "Beige.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1K4IRS-baKFpaU5GM1_8QBk2q3T6XC0ou/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-beige.webp",
+      "status": "ready",
+      "bytes": 84598,
+      "sourceBytes": 472947,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1yAazLFR62xaVLppBby8ashVKi7BVpUHK",
+      "title": "Black.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1yAazLFR62xaVLppBby8ashVKi7BVpUHK/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-black.webp",
+      "status": "ready",
+      "bytes": 78412,
+      "sourceBytes": 538158,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1XKvNDNLnSFchOlZc6AUTZe3WEfUVZ3SA",
+      "title": "British.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1XKvNDNLnSFchOlZc6AUTZe3WEfUVZ3SA/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-british.webp",
+      "status": "ready",
+      "bytes": 127824,
+      "sourceBytes": 593858,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1nN7PWBQyMkp67SUSflno_y6MQENrf4VF",
+      "title": "BROWNIE.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1nN7PWBQyMkp67SUSflno_y6MQENrf4VF/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-brownie.webp",
+      "status": "ready",
+      "bytes": 80784,
+      "sourceBytes": 468138,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1poj-RiNJM8WLsn9BLI1hpA1zU3Af6PIu",
+      "title": "Butter Yellow.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1poj-RiNJM8WLsn9BLI1hpA1zU3Af6PIu/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-butter-yellow.webp",
+      "status": "ready",
+      "bytes": 56894,
+      "sourceBytes": 373032,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1Bi-gS1dIKIP58pQt0ixt6d2k8eqjWtPG",
+      "title": "Buttercream.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1Bi-gS1dIKIP58pQt0ixt6d2k8eqjWtPG/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-buttercream.webp",
+      "status": "ready",
+      "bytes": 47656,
+      "sourceBytes": 303407,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1UoCURQrwzsG2QeUVFgKLJ-_01Sg0sV6Z",
+      "title": "Charcoal.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1UoCURQrwzsG2QeUVFgKLJ-_01Sg0sV6Z/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-charcoal.webp",
+      "status": "ready",
+      "bytes": 81558,
+      "sourceBytes": 436153,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1j9sKPFJGn36hFw5YoAMlXLmMjTy_Hf9-",
+      "title": "choco.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1j9sKPFJGn36hFw5YoAMlXLmMjTy_Hf9-/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-choco.webp",
+      "status": "ready",
+      "bytes": 162516,
+      "sourceBytes": 656580,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1X7t6DSgp0KQYSbAKcZuB3dcjfDI23XAN",
+      "title": "Coffee.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1X7t6DSgp0KQYSbAKcZuB3dcjfDI23XAN/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-coffee.webp",
+      "status": "ready",
+      "bytes": 64272,
+      "sourceBytes": 402011,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "12RUHlggllzE8iYrbZKc8VppZ3SjPrvoc",
+      "title": "Dark coffee.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/12RUHlggllzE8iYrbZKc8VppZ3SjPrvoc/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-dark-coffee.webp",
+      "status": "ready",
+      "bytes": 42546,
+      "sourceBytes": 393690,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1GSpcxas6zHgarvFqFBQxP-X5oHrBWPv_",
+      "title": "dark latte.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1GSpcxas6zHgarvFqFBQxP-X5oHrBWPv_/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-dark-latte.webp",
+      "status": "ready",
+      "bytes": 94986,
+      "sourceBytes": 316720,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1DSujAFqI5sb8ssR78uQ5MWDEhJ9VtmFa",
+      "title": "Dark Navy.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1DSujAFqI5sb8ssR78uQ5MWDEhJ9VtmFa/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-dark-navy.webp",
+      "status": "ready",
+      "bytes": 134778,
+      "sourceBytes": 631929,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "10Vrmm8L1PAs_gw2At89U0zLdDM4_3LAP",
+      "title": "Deep Denim.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/10Vrmm8L1PAs_gw2At89U0zLdDM4_3LAP/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-deep-denim.webp",
+      "status": "ready",
+      "bytes": 104612,
+      "sourceBytes": 522557,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1JJzQsJ7PLECA_gq_bUSmxOJMpa7OQ241",
+      "title": "DIM GREY.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1JJzQsJ7PLECA_gq_bUSmxOJMpa7OQ241/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-dim-grey.webp",
+      "status": "ready",
+      "bytes": 43498,
+      "sourceBytes": 274818,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1nqLkjkQrxIgQybaT1Whfdm2dh7FuclGn",
+      "title": "dusky rose.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1nqLkjkQrxIgQybaT1Whfdm2dh7FuclGn/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-dusky-rose.webp",
+      "status": "ready",
+      "bytes": 45938,
+      "sourceBytes": 460435,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "12r5rj5Na_o3G3Bbflii-VFs2mmx9-8Sq",
+      "title": "dusty.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/12r5rj5Na_o3G3Bbflii-VFs2mmx9-8Sq/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-dusty.webp",
+      "status": "ready",
+      "bytes": 77214,
+      "sourceBytes": 487980,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1T2jnBH1K8lIayrF0PWI4rpTqZ4BgXClV",
+      "title": "electric.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1T2jnBH1K8lIayrF0PWI4rpTqZ4BgXClV/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-electric.webp",
+      "status": "ready",
+      "bytes": 86424,
+      "sourceBytes": 537611,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1G5kcipRtgddvYi-_TZIXn41ghAwYt5hi",
+      "title": "Flint.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1G5kcipRtgddvYi-_TZIXn41ghAwYt5hi/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-flint.webp",
+      "status": "ready",
+      "bytes": 114008,
+      "sourceBytes": 571233,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1uaotn1q2JhnJzFHNU98A1UHr_4qEk4Vm",
+      "title": "Fresh Eme.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1uaotn1q2JhnJzFHNU98A1UHr_4qEk4Vm/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-fresh-eme.webp",
+      "status": "ready",
+      "bytes": 106866,
+      "sourceBytes": 481687,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1Mw5H5yIGAovE6KwgsdfXL_tkAd7FHBV6",
+      "title": "Heather.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1Mw5H5yIGAovE6KwgsdfXL_tkAd7FHBV6/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-heather.webp",
+      "status": "ready",
+      "bytes": 82374,
+      "sourceBytes": 434417,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "11pZnPciEpezI6VzK-YDV-mfgizE_PVQM",
+      "title": "Ivory.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/11pZnPciEpezI6VzK-YDV-mfgizE_PVQM/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-ivory.webp",
+      "status": "ready",
+      "bytes": 62064,
+      "sourceBytes": 316551,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1sOuSoUbCWa_U0vMiPqLRPh8BEEHLDLKN",
+      "title": "38.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1sOuSoUbCWa_U0vMiPqLRPh8BEEHLDLKN/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-38.webp",
+      "status": "ready",
+      "bytes": 40278,
+      "sourceBytes": 547732,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1zn4c5LP87CP3DgQSPnPgA8I6yd5G1YQW",
+      "title": "39.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1zn4c5LP87CP3DgQSPnPgA8I6yd5G1YQW/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-39.webp",
+      "status": "ready",
+      "bytes": 35770,
+      "sourceBytes": 675105,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "10-1e4cJZtqE59iqs-V7-CfG3xYLADNBn",
+      "title": "40.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/10-1e4cJZtqE59iqs-V7-CfG3xYLADNBn/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-40.webp",
+      "status": "ready",
+      "bytes": 56962,
+      "sourceBytes": 646470,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1Jb294roSWouKJHpK3Xg6nybIbKc2SF4I",
+      "title": "41.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1Jb294roSWouKJHpK3Xg6nybIbKc2SF4I/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-41.webp",
+      "status": "ready",
+      "bytes": 69974,
+      "sourceBytes": 622556,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1T70oaU2C1XHKklD1sBeywkWORjUB8DY7",
+      "title": "42.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1T70oaU2C1XHKklD1sBeywkWORjUB8DY7/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-42.webp",
+      "status": "ready",
+      "bytes": 104956,
+      "sourceBytes": 678066,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1Yan3Gh5YvoERM8H8QjCeRPFsf4nxd6us",
+      "title": "43.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1Yan3Gh5YvoERM8H8QjCeRPFsf4nxd6us/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-43.webp",
+      "status": "ready",
+      "bytes": 96570,
+      "sourceBytes": 713723,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1YUtHIR71CZRtUsNYhU2OBgfqOSwZCL8f",
+      "title": "44.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1YUtHIR71CZRtUsNYhU2OBgfqOSwZCL8f/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-44.webp",
+      "status": "ready",
+      "bytes": 39048,
+      "sourceBytes": 536894,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "13FWy3XFWZuGXdiuQW6XUUMVHoUJy2r0U",
+      "title": "45.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/13FWy3XFWZuGXdiuQW6XUUMVHoUJy2r0U/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-45.webp",
+      "status": "ready",
+      "bytes": 59720,
+      "sourceBytes": 608580,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1hL37uKVLADhurHVIQqSLt377VMObUUHC",
+      "title": "46.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1hL37uKVLADhurHVIQqSLt377VMObUUHC/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-46.webp",
+      "status": "ready",
+      "bytes": 65676,
+      "sourceBytes": 600723,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ozIdx2jlUVchEFJ8a-eR9UhlZ7wZl4qW",
+      "title": "47.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ozIdx2jlUVchEFJ8a-eR9UhlZ7wZl4qW/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-47.webp",
+      "status": "ready",
+      "bytes": 48994,
+      "sourceBytes": 573888,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1FytB_NNQCKuUia019MCz0jfTTuz0VWk6",
+      "title": "48.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1FytB_NNQCKuUia019MCz0jfTTuz0VWk6/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-48.webp",
+      "status": "ready",
+      "bytes": 53918,
+      "sourceBytes": 512592,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1vuCZ3cQK-wnVaiknHOS8168COM2EVoiE",
+      "title": "49.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1vuCZ3cQK-wnVaiknHOS8168COM2EVoiE/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-49.webp",
+      "status": "ready",
+      "bytes": 64678,
+      "sourceBytes": 584791,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1PAbWq1H9uR3iujOuzmE6RXj3IjPc51-1",
+      "title": "50.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1PAbWq1H9uR3iujOuzmE6RXj3IjPc51-1/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-50.webp",
+      "status": "ready",
+      "bytes": 44130,
+      "sourceBytes": 503065,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1NNdCtz0Wa1qowJbQ4yq3ZcGTenbgXvDa",
+      "title": "51.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1NNdCtz0Wa1qowJbQ4yq3ZcGTenbgXvDa/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-51.webp",
+      "status": "ready",
+      "bytes": 51050,
+      "sourceBytes": 581023,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1NRFI2DUSpm1etgYf-5kKp2LkIq5smcjs",
+      "title": "52.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1NRFI2DUSpm1etgYf-5kKp2LkIq5smcjs/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-52.webp",
+      "status": "ready",
+      "bytes": 41610,
+      "sourceBytes": 520024,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1IN7kLR0p_RdGfvt98EbtCtm43tJrmu-w",
+      "title": "53.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1IN7kLR0p_RdGfvt98EbtCtm43tJrmu-w/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-53.webp",
+      "status": "ready",
+      "bytes": 32784,
+      "sourceBytes": 554042,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1sAWdocZ_rxPL1tmevp-j4oy83W5qhSf1",
+      "title": "54.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1sAWdocZ_rxPL1tmevp-j4oy83W5qhSf1/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-54.webp",
+      "status": "ready",
+      "bytes": 51038,
+      "sourceBytes": 552352,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1io22OTOWlYuA5eca9na0wNvbRK3xZ99N",
+      "title": "55.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1io22OTOWlYuA5eca9na0wNvbRK3xZ99N/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-55.webp",
+      "status": "ready",
+      "bytes": 69320,
+      "sourceBytes": 626801,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "10qCdwGeZp0TWbxRP2_QefDSWj1onYNqQ",
+      "title": "56.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/10qCdwGeZp0TWbxRP2_QefDSWj1onYNqQ/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-56.webp",
+      "status": "ready",
+      "bytes": 29988,
+      "sourceBytes": 475377,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "15xYxQMXIYGexKgbVXVF8wmxvckf4YQg7",
+      "title": "57.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/15xYxQMXIYGexKgbVXVF8wmxvckf4YQg7/view?usp=drivesdk",
+      "folder": "17. Paris Japan/foto warna ",
+      "file": "new-paris-japan-57.webp",
+      "status": "ready",
+      "bytes": 30776,
+      "sourceBytes": 610751,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1anGrXU5ujnWTdpPSTfyrQsswVk2sfChR",
+      "title": "Serian Warna - 13.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1anGrXU5ujnWTdpPSTfyrQsswVk2sfChR/view?usp=drivesdk",
+      "folder": "17. Paris Japan",
+      "file": "new-paris-japan-serian-warna-13.webp",
+      "status": "ready",
+      "bytes": 125478,
+      "sourceBytes": 16142053,
+      "originalSize": [
+        3375,
+        4219
+      ]
+    },
+    {
+      "id": "1e_6RLP57XQY6tiaK3srSYbPXmpsAf_Q4",
+      "title": "Jeans.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1e_6RLP57XQY6tiaK3srSYbPXmpsAf_Q4/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-jeans.webp",
+      "status": "ready",
+      "bytes": 94430,
+      "sourceBytes": 519243,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1xSIcduN6ubTN62CaFDkA5Jodm7Y6urw1",
+      "title": "KALE.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1xSIcduN6ubTN62CaFDkA5Jodm7Y6urw1/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-kale.webp",
+      "status": "ready",
+      "bytes": 68172,
+      "sourceBytes": 405328,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1Ef2gmFGt0rkhmNqIax8JoPAntUY00lnp",
+      "title": "latte.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1Ef2gmFGt0rkhmNqIax8JoPAntUY00lnp/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-latte.webp",
+      "status": "ready",
+      "bytes": 91008,
+      "sourceBytes": 489528,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1qmgDABwOIea8ypQySPYHkVvIbxCkVvjL",
+      "title": "Lilac Grey.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1qmgDABwOIea8ypQySPYHkVvIbxCkVvjL/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-lilac-grey.webp",
+      "status": "ready",
+      "bytes": 47644,
+      "sourceBytes": 254983,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "16OI1DqEh87XV8vrp17tyo3bQmozY4ZoG",
+      "title": "Lilac.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/16OI1DqEh87XV8vrp17tyo3bQmozY4ZoG/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-lilac.webp",
+      "status": "ready",
+      "bytes": 100430,
+      "sourceBytes": 508901,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "137mAWuqhBa3oeriaIbqRxi9sfZzed9FR",
+      "title": "maroon.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/137mAWuqhBa3oeriaIbqRxi9sfZzed9FR/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-maroon.webp",
+      "status": "ready",
+      "bytes": 128512,
+      "sourceBytes": 609057,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1X72PiwHfjZ-w9StR5uD2hqnUwceEC4hL",
+      "title": "midnight.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1X72PiwHfjZ-w9StR5uD2hqnUwceEC4hL/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-midnight.webp",
+      "status": "ready",
+      "bytes": 158816,
+      "sourceBytes": 639061,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1c-ed6J09ZUHbzyt-aRZYRQk--1G0oMqh",
+      "title": "Milk tea.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1c-ed6J09ZUHbzyt-aRZYRQk--1G0oMqh/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-milk-tea.webp",
+      "status": "ready",
+      "bytes": 47668,
+      "sourceBytes": 438358,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "10HJG9pvkN1uaVJSUMLThZk_VPc25yttI",
+      "title": "Mint.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/10HJG9pvkN1uaVJSUMLThZk_VPc25yttI/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-mint.webp",
+      "status": "ready",
+      "bytes": 50862,
+      "sourceBytes": 274515,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1i4EU6FEzKUlOP7183a3853eGXw9XO2X3",
+      "title": "Misty Grey.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1i4EU6FEzKUlOP7183a3853eGXw9XO2X3/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-misty-grey.webp",
+      "status": "ready",
+      "bytes": 71522,
+      "sourceBytes": 467705,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "12URB-o9Jbd0i9CHfXqwaZizH-ooyWRn3",
+      "title": "mustard.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/12URB-o9Jbd0i9CHfXqwaZizH-ooyWRn3/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-mustard.webp",
+      "status": "ready",
+      "bytes": 102620,
+      "sourceBytes": 329605,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1mvpunLW17zlaovVo5UOAcXbhm58MOM0f",
+      "title": "Navy.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1mvpunLW17zlaovVo5UOAcXbhm58MOM0f/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-navy.webp",
+      "status": "ready",
+      "bytes": 93020,
+      "sourceBytes": 512880,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1t6MBQPvHToNgfLw9KpDM8CxxBVcugZAl",
+      "title": "Nude.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1t6MBQPvHToNgfLw9KpDM8CxxBVcugZAl/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-nude.webp",
+      "status": "ready",
+      "bytes": 68570,
+      "sourceBytes": 377186,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1lOHvX1bMgqrSy5i2T7M5REPMdNWtLu8v",
+      "title": "olive.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1lOHvX1bMgqrSy5i2T7M5REPMdNWtLu8v/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-olive.webp",
+      "status": "ready",
+      "bytes": 149582,
+      "sourceBytes": 606729,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1IK6QajkZOqaJKY5DBUEhNIYOMkfwCE-g",
+      "title": "Pine.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1IK6QajkZOqaJKY5DBUEhNIYOMkfwCE-g/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-pine.webp",
+      "status": "ready",
+      "bytes": 91532,
+      "sourceBytes": 461595,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1jSvFtqGId7DCPW4dZhzLS3WQQX411HzZ",
+      "title": "Pink Powder.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1jSvFtqGId7DCPW4dZhzLS3WQQX411HzZ/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-pink-powder.webp",
+      "status": "ready",
+      "bytes": 110844,
+      "sourceBytes": 568312,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1FNXZ4YDwOzAtVSQjvTLVW5uLMKU99r1g",
+      "title": "Red Cherry.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1FNXZ4YDwOzAtVSQjvTLVW5uLMKU99r1g/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-red-cherry.webp",
+      "status": "ready",
+      "bytes": 98156,
+      "sourceBytes": 532924,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "14p5-ybfSFMSjqWSV58Scb_WjBeJRVUHj",
+      "title": "red.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/14p5-ybfSFMSjqWSV58Scb_WjBeJRVUHj/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-red.webp",
+      "status": "ready",
+      "bytes": 71148,
+      "sourceBytes": 487599,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1b9gpWLCJjJ65p-ilWNu9co4xEmUAESm8",
+      "title": "sage.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1b9gpWLCJjJ65p-ilWNu9co4xEmUAESm8/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-sage.webp",
+      "status": "ready",
+      "bytes": 125810,
+      "sourceBytes": 584728,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "105GEeHRKgHeNkUPJfuP5RvtwuarpetOb",
+      "title": "sand.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/105GEeHRKgHeNkUPJfuP5RvtwuarpetOb/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-sand.webp",
+      "status": "ready",
+      "bytes": 40992,
+      "sourceBytes": 335338,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1Hk3XZiB45FuNxLj6lpHVwG1zky2JX-Pg",
+      "title": "Silver.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1Hk3XZiB45FuNxLj6lpHVwG1zky2JX-Pg/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-silver.webp",
+      "status": "ready",
+      "bytes": 41190,
+      "sourceBytes": 367714,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1bUSe9xJoUrkvjNhfm2vTvxUHWx2NcDFl",
+      "title": "soft pink.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1bUSe9xJoUrkvjNhfm2vTvxUHWx2NcDFl/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-soft-pink.webp",
+      "status": "ready",
+      "bytes": 76982,
+      "sourceBytes": 446714,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1IXQWiKQzveMXzQNVQwTE1dS9DOi5Xbo9",
+      "title": "Storm.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1IXQWiKQzveMXzQNVQwTE1dS9DOi5Xbo9/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-storm.webp",
+      "status": "ready",
+      "bytes": 52324,
+      "sourceBytes": 362842,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1seHnGzvi1Zkw-U5gjOp7weuMcudbGCHY",
+      "title": "Tan.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1seHnGzvi1Zkw-U5gjOp7weuMcudbGCHY/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-tan.webp",
+      "status": "ready",
+      "bytes": 79764,
+      "sourceBytes": 521463,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1CNN-ojmmk-rWraznoxnv7kh2HiVGCxmk",
+      "title": "Taro.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1CNN-ojmmk-rWraznoxnv7kh2HiVGCxmk/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-taro.webp",
+      "status": "ready",
+      "bytes": 110468,
+      "sourceBytes": 549862,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1uMq4O6p4TPCMfI5AqMM1y6gS8zD8ao-A",
+      "title": "Tea Flower.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1uMq4O6p4TPCMfI5AqMM1y6gS8zD8ao-A/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-tea-flower.webp",
+      "status": "ready",
+      "bytes": 57472,
+      "sourceBytes": 301555,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1G51oOFT5pDsPgApr3ek1SG9yfFzJnSPv",
+      "title": "vanilla.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1G51oOFT5pDsPgApr3ek1SG9yfFzJnSPv/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-vanilla.webp",
+      "status": "ready",
+      "bytes": 64206,
+      "sourceBytes": 1811022,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1kbGz4vntvbZOzTJbITg5DDyCX4llbX9m",
+      "title": "Waffle.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1kbGz4vntvbZOzTJbITg5DDyCX4llbX9m/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-waffle.webp",
+      "status": "ready",
+      "bytes": 79260,
+      "sourceBytes": 445646,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1FNMHDzl1_Gn8tVCJmVtEsbryhLpoqIqf",
+      "title": "white.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1FNMHDzl1_Gn8tVCJmVtEsbryhLpoqIqf/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-white.webp",
+      "status": "ready",
+      "bytes": 49448,
+      "sourceBytes": 420298,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "1Il6X177Iq_klcI98fw_StRbg40hcOg4x",
+      "title": "Wine.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1Il6X177Iq_klcI98fw_StRbg40hcOg4x/view?usp=drivesdk",
+      "folder": "7. Paris Jadul/warna max 2kb",
+      "file": "new-paris-wine.webp",
+      "status": "ready",
+      "bytes": 79588,
+      "sourceBytes": 500109,
+      "originalSize": [
+        2295,
+        2295
+      ]
+    },
+    {
+      "id": "19S0S9Xa-DTL3UFzFf3laflodnVCY_Y_s",
+      "title": "ash.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/19S0S9Xa-DTL3UFzFf3laflodnVCY_Y_s/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-ash.webp",
+      "status": "ready",
+      "bytes": 49076,
+      "sourceBytes": 585417,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1OFIMzAT6gEsdnAFBG0PmaR2PhPr1EFJU",
+      "title": "black.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1OFIMzAT6gEsdnAFBG0PmaR2PhPr1EFJU/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-black.webp",
+      "status": "ready",
+      "bytes": 47132,
+      "sourceBytes": 588680,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1qYOagaj-tZYGKrvK4pein2FZc9cugsCi",
+      "title": "blue sky.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1qYOagaj-tZYGKrvK4pein2FZc9cugsCi/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-blue-sky.webp",
+      "status": "ready",
+      "bytes": 52176,
+      "sourceBytes": 605406,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1rayQqItRw5RwfvXWgwREshdF4YXmg3Fa",
+      "title": "buttercream.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1rayQqItRw5RwfvXWgwREshdF4YXmg3Fa/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-buttercream.webp",
+      "status": "ready",
+      "bytes": 50798,
+      "sourceBytes": 620573,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1iHBxwNQLDHGc4Ob7gs1SamzCXRsWYyk2",
+      "title": "cookie.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1iHBxwNQLDHGc4Ob7gs1SamzCXRsWYyk2/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-cookie.webp",
+      "status": "ready",
+      "bytes": 52250,
+      "sourceBytes": 581109,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1EZRKsi3bAUyHtNWB_1N4waF8yf2XC5Wp",
+      "title": "creamy beige.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1EZRKsi3bAUyHtNWB_1N4waF8yf2XC5Wp/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-creamy-beige.webp",
+      "status": "ready",
+      "bytes": 52546,
+      "sourceBytes": 623288,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1VfusgyofBOkwa7x0ff1_-n78PksP36mW",
+      "title": "creamy latte.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1VfusgyofBOkwa7x0ff1_-n78PksP36mW/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-creamy-latte.webp",
+      "status": "ready",
+      "bytes": 51984,
+      "sourceBytes": 594794,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1GVZXlnhixhsPIzAUPh5KjxN04BbUzkW1",
+      "title": "dark milo (1).png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1GVZXlnhixhsPIzAUPh5KjxN04BbUzkW1/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-dark-milo-1.webp",
+      "status": "ready",
+      "bytes": 60720,
+      "sourceBytes": 583588,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ZISa4sax82bwjw9GmjmZz8rnY2Slx1y_",
+      "title": "dark oat.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ZISa4sax82bwjw9GmjmZz8rnY2Slx1y_/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-dark-oat.webp",
+      "status": "ready",
+      "bytes": 51758,
+      "sourceBytes": 572929,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1Yhyj0U-SDrsId8tS03AiUdR3hj_JelRs",
+      "title": "deep beige.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1Yhyj0U-SDrsId8tS03AiUdR3hj_JelRs/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-deep-beige.webp",
+      "status": "ready",
+      "bytes": 53034,
+      "sourceBytes": 621449,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1Qf-O3Im0RJnBEfrw7lnkS1rzYv2FOQjU",
+      "title": "earth.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1Qf-O3Im0RJnBEfrw7lnkS1rzYv2FOQjU/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-earth.webp",
+      "status": "ready",
+      "bytes": 52380,
+      "sourceBytes": 579245,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1nwyUOMyIX1BmzJieJ-cr03jd5a_33C4n",
+      "title": "frappe.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1nwyUOMyIX1BmzJieJ-cr03jd5a_33C4n/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-frappe.webp",
+      "status": "ready",
+      "bytes": 58356,
+      "sourceBytes": 596988,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "11yr4jB50XT5Ibgspp_UIbNkF74VooZrB",
+      "title": "mahogany.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/11yr4jB50XT5Ibgspp_UIbNkF74VooZrB/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-mahogany.webp",
+      "status": "ready",
+      "bytes": 49798,
+      "sourceBytes": 549300,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1_L6P7u-tKLhnxfVC1HJ_HPODsBV3bMRs",
+      "title": "milo.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1_L6P7u-tKLhnxfVC1HJ_HPODsBV3bMRs/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-milo.webp",
+      "status": "ready",
+      "bytes": 56898,
+      "sourceBytes": 572204,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "18GEl72yaXxCrcDuxdbCq27AFfsVwXWJR",
+      "title": "misty grey.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/18GEl72yaXxCrcDuxdbCq27AFfsVwXWJR/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-misty-grey.webp",
+      "status": "ready",
+      "bytes": 50620,
+      "sourceBytes": 596376,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "17O4AcrmQ0NzSVSfg90wLlm90AwP6L2TO",
+      "title": "navy.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/17O4AcrmQ0NzSVSfg90wLlm90AwP6L2TO/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-navy.webp",
+      "status": "ready",
+      "bytes": 46780,
+      "sourceBytes": 584134,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "17OY9Regx-g7AZuywo19C-VC0P8p4t4ND",
+      "title": "smoke.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/17OY9Regx-g7AZuywo19C-VC0P8p4t4ND/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-smoke.webp",
+      "status": "ready",
+      "bytes": 54238,
+      "sourceBytes": 604025,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1hPaIivo_qHhwRj0dpOZbP8RFb0I_FSYh",
+      "title": "soft apricot.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1hPaIivo_qHhwRj0dpOZbP8RFb0I_FSYh/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-soft-apricot.webp",
+      "status": "ready",
+      "bytes": 51340,
+      "sourceBytes": 596906,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1kESZOKfKqZUETfJnC6E0AYc44TxDUj6U",
+      "title": "tea flower.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1kESZOKfKqZUETfJnC6E0AYc44TxDUj6U/view?usp=drivesdk",
+      "folder": "15. Bamboo Slip On/warna",
+      "file": "new-slip-on-tea-flower.webp",
+      "status": "ready",
+      "bytes": 49306,
+      "sourceBytes": 587421,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1pV-SK2PPfA1NbD8Orr7A13cMpqjJF39o",
+      "title": "FPK-202507152.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1pV-SK2PPfA1NbD8Orr7A13cMpqjJF39o/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Adore Series",
+      "file": "new-tryspan-adore-series-fpk-202507152.webp",
+      "status": "ready",
+      "bytes": 30146,
+      "sourceBytes": 6929977,
+      "originalSize": [
+        4000,
+        5328
+      ]
+    },
+    {
+      "id": "1DLW63vDjNgkG38Y1-AgpY6aIs4NR5-dl",
+      "title": "Series - 10.JPG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1DLW63vDjNgkG38Y1-AgpY6aIs4NR5-dl/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Aeris Series",
+      "file": "new-tryspan-aeris-series-series-10.webp",
+      "status": "ready",
+      "bytes": 106362,
+      "sourceBytes": 934509,
+      "originalSize": [
+        2160,
+        2160
+      ]
+    },
+    {
+      "id": "11UO-wXzhrQbSYFQO6sw5bXtq43W0r5Dm",
+      "title": "Copy of Thaif & Riyadh Series .zip - 8.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/11UO-wXzhrQbSYFQO6sw5bXtq43W0r5Dm/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Alamanda",
+      "file": "new-tryspan-alamanda-copy-of-thaif-riyadh-series-zip-8.webp",
+      "status": "ready",
+      "bytes": 124596,
+      "sourceBytes": 55457947,
+      "originalSize": [
+        6912,
+        8640
+      ]
+    },
+    {
+      "id": "1hlc6O4HT2DAFND9ULsyedfp-vp3S0rHd",
+      "title": "Kamila & Alesha Series.zip - 12.JPG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1hlc6O4HT2DAFND9ULsyedfp-vp3S0rHd/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/Alesha & Kamila",
+      "file": "new-tryspan-alesha-kamila-kamila-alesha-series-zip-12.webp",
+      "status": "ready",
+      "bytes": 66170,
+      "sourceBytes": 26550680,
+      "originalSize": [
+        7200,
+        9000
+      ]
+    },
+    {
+      "id": "1NqikCJVO4__Y_5uuKhEcD5qU199c_bRK",
+      "title": "Series - 20.JPG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1NqikCJVO4__Y_5uuKhEcD5qU199c_bRK/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Artiel Series",
+      "file": "new-tryspan-artiel-series-series-20.webp",
+      "status": "ready",
+      "bytes": 91600,
+      "sourceBytes": 669407,
+      "originalSize": [
+        2160,
+        2160
+      ]
+    },
+    {
+      "id": "1tHVvqwn7xQYuEx6eY9ajt5gVV_leoQeO",
+      "title": "Copy of Thaif & Riyadh Series .zip - 3.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1tHVvqwn7xQYuEx6eY9ajt5gVV_leoQeO/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Asoka Series",
+      "file": "new-tryspan-asoka-series-copy-of-thaif-riyadh-series-zip-3.webp",
+      "status": "ready",
+      "bytes": 146196,
+      "sourceBytes": 50614410,
+      "originalSize": [
+        6912,
+        8640
+      ]
+    },
+    {
+      "id": "1qAjIsMsifO37lRhj-1Hga_iFI_CtVCBo",
+      "title": "Series (Instagram Post (45)).zip - 8.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1qAjIsMsifO37lRhj-1Hga_iFI_CtVCBo/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Bateeq Series",
+      "file": "new-tryspan-bateeq-series-series-instagram-post-45-zip-8.webp",
+      "status": "ready",
+      "bytes": 56668,
+      "sourceBytes": 8887677,
+      "originalSize": [
+        2565,
+        3206
+      ]
+    },
+    {
+      "id": "1VS5HPboYoc0isXR7hRCrRdMaCZdA7HBB",
+      "title": "Series - 5.JPG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1VS5HPboYoc0isXR7hRCrRdMaCZdA7HBB/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Bloom Series",
+      "file": "new-tryspan-bloom-series-series-5.webp",
+      "status": "ready",
+      "bytes": 48414,
+      "sourceBytes": 495350,
+      "originalSize": [
+        2160,
+        2160
+      ]
+    },
+    {
+      "id": "1BKjBz9wggYr-irKpK5QBXS9t_6Bl7Y0-",
+      "title": "FPK-202507298.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1BKjBz9wggYr-irKpK5QBXS9t_6Bl7Y0-/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Calla Series",
+      "file": "new-tryspan-calla-series-fpk-202507298.webp",
+      "status": "ready",
+      "bytes": 101112,
+      "sourceBytes": 10498949,
+      "originalSize": [
+        4000,
+        5328
+      ]
+    },
+    {
+      "id": "1FlaZ04Gl44GsSE1sAyLxcry_uzq9FN1T",
+      "title": "Series (Instagram Post (45)).zip - 2.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1FlaZ04Gl44GsSE1sAyLxcry_uzq9FN1T/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Camelia Series",
+      "file": "new-tryspan-camelia-series-series-instagram-post-45-zip-2.webp",
+      "status": "ready",
+      "bytes": 64742,
+      "sourceBytes": 9068084,
+      "originalSize": [
+        2565,
+        3206
+      ]
+    },
+    {
+      "id": "1ln9R6rnErcg0yiVxinHVQPmXBLrAYB9K",
+      "title": "FPK2026010610.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1ln9R6rnErcg0yiVxinHVQPmXBLrAYB9K/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/Cielo Basic",
+      "file": "new-tryspan-cielo-basic-fpk2026010610.webp",
+      "status": "ready",
+      "bytes": 26378,
+      "sourceBytes": 3318757,
+      "originalSize": [
+        4000,
+        4000
+      ]
+    },
+    {
+      "id": "1Z9oYeu5sNT732Dyi0Ygs7DD_o32-1XXR",
+      "title": "FPK2025071411.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1Z9oYeu5sNT732Dyi0Ygs7DD_o32-1XXR/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/Classic Malay Series",
+      "file": "new-tryspan-classic-malay-series-fpk2025071411.webp",
+      "status": "ready",
+      "bytes": 122522,
+      "sourceBytes": 5512117,
+      "originalSize": [
+        3019,
+        3774
+      ]
+    },
+    {
+      "id": "14m_Qy3nhtulGnP0iSTY3HQGRZyofj6jm",
+      "title": "FPK2025071412.jpg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/14m_Qy3nhtulGnP0iSTY3HQGRZyofj6jm/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/Daisy Series",
+      "file": "new-tryspan-daisy-series-fpk2025071412.webp",
+      "status": "ready",
+      "bytes": 76980,
+      "sourceBytes": 2858161,
+      "originalSize": [
+        3200,
+        4000
+      ]
+    },
+    {
+      "id": "1SJBBiUxUDLzW_wq7Dcskax1ANDQQie2T",
+      "title": "17.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1SJBBiUxUDLzW_wq7Dcskax1ANDQQie2T/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/Ethnic Clover",
+      "file": "new-tryspan-ethnic-clover-17.webp",
+      "status": "ready",
+      "bytes": 103532,
+      "sourceBytes": 5778620,
+      "originalSize": [
+        1890,
+        2363
+      ]
+    },
+    {
+      "id": "1wGFlxmJ_W4NqXlkkfZfjNR5CU6xEC2Nm",
+      "title": "Series (Instagram Post (45)).zip - 21.JPG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1wGFlxmJ_W4NqXlkkfZfjNR5CU6xEC2Nm/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/Ethnic Series",
+      "file": "new-tryspan-ethnic-series-series-instagram-post-45-zip-21.webp",
+      "status": "ready",
+      "bytes": 107266,
+      "sourceBytes": 925261,
+      "originalSize": [
+        2835,
+        3544
+      ]
+    },
+    {
+      "id": "17qfLovcqtic5zyorVeWF4m0poWXD2tpW",
+      "title": "Series.zip - 4.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/17qfLovcqtic5zyorVeWF4m0poWXD2tpW/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/EVE Series",
+      "file": "new-tryspan-eve-series-series-zip-4.webp",
+      "status": "ready",
+      "bytes": 179092,
+      "sourceBytes": 7566581,
+      "originalSize": [
+        2025,
+        2025
+      ]
+    },
+    {
+      "id": "1wEOQY2njfYgG_8F3qV2nPD_S-h8NxtrB",
+      "title": "10.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1wEOQY2njfYgG_8F3qV2nPD_S-h8NxtrB/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/Iliya Series",
+      "file": "new-tryspan-iliya-series-10.webp",
+      "status": "ready",
+      "bytes": 177908,
+      "sourceBytes": 63103689,
+      "originalSize": [
+        7063,
+        7063
+      ]
+    },
+    {
+      "id": "16hGHgnQ7iNtRIxULarVGePGtogvR6xhW",
+      "title": "FPK2025061710.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/16hGHgnQ7iNtRIxULarVGePGtogvR6xhW/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/June Series",
+      "file": "new-tryspan-june-series-fpk2025061710.webp",
+      "status": "ready",
+      "bytes": 63058,
+      "sourceBytes": 7249912,
+      "originalSize": [
+        3862,
+        5144
+      ]
+    },
+    {
+      "id": "1uD474xI2Rmq-R9hvBvizFx-fj5UOs-wO",
+      "title": "17.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1uD474xI2Rmq-R9hvBvizFx-fj5UOs-wO/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Laika Series",
+      "file": "new-tryspan-laika-series-17.webp",
+      "status": "ready",
+      "bytes": 157554,
+      "sourceBytes": 60412274,
+      "originalSize": [
+        6520,
+        6520
+      ]
+    },
+    {
+      "id": "102LVtfID19jFgYfaDwm6M80eg4tEGSuJ",
+      "title": "FPK-202507157.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/102LVtfID19jFgYfaDwm6M80eg4tEGSuJ/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Laila Series",
+      "file": "new-tryspan-laila-series-fpk-202507157.webp",
+      "status": "ready",
+      "bytes": 31224,
+      "sourceBytes": 7011091,
+      "originalSize": [
+        4000,
+        5328
+      ]
+    },
+    {
+      "id": "10a-Udsubj3PIzelP2OW8DjvfIFDJFMki",
+      "title": "Madinah",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/10a-Udsubj3PIzelP2OW8DjvfIFDJFMki/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Madinah Series",
+      "file": "new-tryspan-madinah-series-madinah.webp",
+      "status": "ready",
+      "bytes": 92888,
+      "sourceBytes": 10740405,
+      "originalSize": [
+        1620,
+        2880
+      ]
+    },
+    {
+      "id": "1E_6SWDk01ySXu4s6uLDwMaLfD3g2cXWW",
+      "title": "FPK202502068.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1E_6SWDk01ySXu4s6uLDwMaLfD3g2cXWW/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Nuna Series",
+      "file": "new-tryspan-nuna-series-fpk202502068.webp",
+      "status": "ready",
+      "bytes": 59784,
+      "sourceBytes": 6404687,
+      "originalSize": [
+        4000,
+        4000
+      ]
+    },
+    {
+      "id": "1MZGbRTjPA_3bRt5p5HW9D-cJw4ysClum",
+      "title": "FPK-2025072910.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1MZGbRTjPA_3bRt5p5HW9D-cJw4ysClum/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/Primrose Series",
+      "file": "new-tryspan-primrose-series-fpk-2025072910.webp",
+      "status": "ready",
+      "bytes": 64480,
+      "sourceBytes": 9209323,
+      "originalSize": [
+        4000,
+        5328
+      ]
+    },
+    {
+      "id": "1oMXSJOEDOVnPo2PKkcY4E-j0aXilNaxQ",
+      "title": "Series (Instagram Post (45)).zip - 10.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1oMXSJOEDOVnPo2PKkcY4E-j0aXilNaxQ/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Raqeema Series",
+      "file": "new-tryspan-raqeema-series-series-instagram-post-45-zip-10.webp",
+      "status": "ready",
+      "bytes": 62968,
+      "sourceBytes": 9153275,
+      "originalSize": [
+        2565,
+        3206
+      ]
+    },
+    {
+      "id": "1cGf--V9FX_lJqS0Hufnpu39au06xQR5C",
+      "title": "FPK-2025070813.JPEG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1cGf--V9FX_lJqS0Hufnpu39au06xQR5C/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Seaweed Series",
+      "file": "new-tryspan-seaweed-series-fpk-2025070813.webp",
+      "status": "ready",
+      "bytes": 58692,
+      "sourceBytes": 7068903,
+      "originalSize": [
+        4000,
+        5328
+      ]
+    },
+    {
+      "id": "1dHcNiMj6uwKCfkZn174DriGCdS_9z1Ip",
+      "title": "Seoul & Fukuoka Series.zip - 3.JPG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1dHcNiMj6uwKCfkZn174DriGCdS_9z1Ip/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Seoul & Fukuoka Series",
+      "file": "new-tryspan-seoul-fukuoka-series-seoul-fukuoka-series-zip-3.webp",
+      "status": "ready",
+      "bytes": 96724,
+      "sourceBytes": 3229809,
+      "originalSize": [
+        5760,
+        7200
+      ]
+    },
+    {
+      "id": "1jdggu7rZ_g_vRpRHzYDHCMluR64uTJ-C",
+      "title": "3.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1jdggu7rZ_g_vRpRHzYDHCMluR64uTJ-C/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Juli",
+      "file": "new-tryspan-serian-juli-3.webp",
+      "status": "ready",
+      "bytes": 99886,
+      "sourceBytes": 7508739,
+      "originalSize": [
+        1890,
+        2363
+      ]
+    },
+    {
+      "id": "11mHClFQcxUKZ7psk9l2flXsNvefU1Pr7",
+      "title": "Sina & Embun Series.zip - 2.JPG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/11mHClFQcxUKZ7psk9l2flXsNvefU1Pr7/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Sina Series",
+      "file": "new-tryspan-sina-series-sina-embun-series-zip-2.webp",
+      "status": "ready",
+      "bytes": 87660,
+      "sourceBytes": 433299,
+      "originalSize": [
+        2025,
+        2531
+      ]
+    },
+    {
+      "id": "12bwMuWCgPYvL8KiH1TgRPtYdH5uGW6be",
+      "title": "work!.zip - 7.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/12bwMuWCgPYvL8KiH1TgRPtYdH5uGW6be/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/Ula Series",
+      "file": "new-tryspan-ula-series-work-zip-7.webp",
+      "status": "ready",
+      "bytes": 152524,
+      "sourceBytes": 13073463,
+      "originalSize": [
+        2970,
+        3713
+      ]
+    },
+    {
+      "id": "1FwqsVkNwh62w27ZzZvcsgLzLNVyVesdR",
+      "title": "Series - 15.JPG",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1FwqsVkNwh62w27ZzZvcsgLzLNVyVesdR/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Wanderlust Series",
+      "file": "new-tryspan-wanderlust-series-series-15.webp",
+      "status": "ready",
+      "bytes": 76936,
+      "sourceBytes": 625716,
+      "originalSize": [
+        2160,
+        2160
+      ]
+    },
+    {
+      "id": "1UqecSy50CIUEf8E1rHVbk-ivHQrhIPYI",
+      "title": "18.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1UqecSy50CIUEf8E1rHVbk-ivHQrhIPYI/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/SOLD/Watercolor Series",
+      "file": "new-tryspan-watercolor-series-18.webp",
+      "status": "ready",
+      "bytes": 53216,
+      "sourceBytes": 3955784,
+      "originalSize": [
+        1890,
+        2363
+      ]
+    },
+    {
+      "id": "16M_QU4KV-0PbXDm3qagHr9I6nnZPrYO0",
+      "title": "Series (Instagram Post (45)).zip - 4.PNG",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/16M_QU4KV-0PbXDm3qagHr9I6nnZPrYO0/view?usp=drivesdk",
+      "folder": "8. Motif Tryspan/Serian Lalu/Zaina Series",
+      "file": "new-tryspan-zaina-series-series-instagram-post-45-zip-4.webp",
+      "status": "ready",
+      "bytes": 48764,
+      "sourceBytes": 8716666,
+      "originalSize": [
+        2565,
+        3206
+      ]
+    },
+    {
+      "id": "1FbY4DqHm5zFKLGFnmgUW57wnkFd96YlV",
+      "title": "aaa382d0-b697-449a-b343-8b7240792a0b.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1FbY4DqHm5zFKLGFnmgUW57wnkFd96YlV/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-aaa382d0-b697-449a-b343-8b7240792a0b.webp",
+      "status": "ready",
+      "bytes": 82642,
+      "sourceBytes": 1706538,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1tpoLtF-v5r-SJ8b2OokrsmsgRNs7VxyU",
+      "title": "af6aa17b-eaf7-4bc5-b61e-ed2086d3ca85.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1tpoLtF-v5r-SJ8b2OokrsmsgRNs7VxyU/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-af6aa17b-eaf7-4bc5-b61e-ed2086d3ca85.webp",
+      "status": "ready",
+      "bytes": 86134,
+      "sourceBytes": 1632073,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "1R95GEkTp0rhmw2_-86Jttns5AGgEQFqQ",
+      "title": "black.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1R95GEkTp0rhmw2_-86Jttns5AGgEQFqQ/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-black.webp",
+      "status": "ready",
+      "bytes": 79908,
+      "sourceBytes": 1995564,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "170kzOWYA2u0PbrsR71JH2G2u4qNfSA2C",
+      "title": "brownie zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/170kzOWYA2u0PbrsR71JH2G2u4qNfSA2C/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-brownie-zoya.webp",
+      "status": "ready",
+      "bytes": 56254,
+      "sourceBytes": 610634,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1I2q90lPkmzKqlTpuWlMEWYcq2fl48PSG",
+      "title": "dark latte zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1I2q90lPkmzKqlTpuWlMEWYcq2fl48PSG/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-dark-latte-zoya.webp",
+      "status": "ready",
+      "bytes": 68394,
+      "sourceBytes": 644970,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1ayfmgPFpAtwobJoZ87kTnMYRjdMvX4Mn",
+      "title": "dark milo zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1ayfmgPFpAtwobJoZ87kTnMYRjdMvX4Mn/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-dark-milo-zoya.webp",
+      "status": "ready",
+      "bytes": 72488,
+      "sourceBytes": 660851,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1MSr089fsa-B6ZyJabZLQaE2rE7cRoOph",
+      "title": "deep almond zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1MSr089fsa-B6ZyJabZLQaE2rE7cRoOph/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-deep-almond-zoya.webp",
+      "status": "ready",
+      "bytes": 63510,
+      "sourceBytes": 627377,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1AgKcc31zVOqFhGb0mKEAThgsLRSDd_S0",
+      "title": "deep beige zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1AgKcc31zVOqFhGb0mKEAThgsLRSDd_S0/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-deep-beige-zoya.webp",
+      "status": "ready",
+      "bytes": 61250,
+      "sourceBytes": 624812,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1lia_9SUp1XrjXkObsedd_EPNWRRiUIVl",
+      "title": "earth zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1lia_9SUp1XrjXkObsedd_EPNWRRiUIVl/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-earth-zoya.webp",
+      "status": "ready",
+      "bytes": 56854,
+      "sourceBytes": 639013,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1N96dF3gZWdUVpt2Rtt4ZSBsbRjccc8OG",
+      "title": "etalase shopee & tiktok (31).png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1N96dF3gZWdUVpt2Rtt4ZSBsbRjccc8OG/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-etalase-shopee-tiktok-31.webp",
+      "status": "ready",
+      "bytes": 38926,
+      "sourceBytes": 325185,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1WUWfsIb_k_PgK8RMA_35Ywy8YYqKN7OV",
+      "title": "etalase shopee & tiktok (32).png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1WUWfsIb_k_PgK8RMA_35Ywy8YYqKN7OV/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-etalase-shopee-tiktok-32.webp",
+      "status": "ready",
+      "bytes": 25472,
+      "sourceBytes": 463177,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "10I3BTAyuaWPDvYrtp56axa0Tjy-70MmJ",
+      "title": "etalase shopee & tiktok (33).png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/10I3BTAyuaWPDvYrtp56axa0Tjy-70MmJ/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-etalase-shopee-tiktok-33.webp",
+      "status": "ready",
+      "bytes": 25472,
+      "sourceBytes": 463177,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1W8MqmWTawk6Ea-hlF0lgEGuxIErIeO87",
+      "title": "etalase shopee & tiktok (34).png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1W8MqmWTawk6Ea-hlF0lgEGuxIErIeO87/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-etalase-shopee-tiktok-34.webp",
+      "status": "ready",
+      "bytes": 25620,
+      "sourceBytes": 460084,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1PS840VKKQpIjfqNMTIqY3Ajhz3v6Rff-",
+      "title": "etalase shopee & tiktok (35).png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1PS840VKKQpIjfqNMTIqY3Ajhz3v6Rff-/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-etalase-shopee-tiktok-35.webp",
+      "status": "ready",
+      "bytes": 29858,
+      "sourceBytes": 477454,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1rQfHzS5AoFIjzg-jXL2qlWQOwVCNks_j",
+      "title": "etalase shopee & tiktok (36).png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1rQfHzS5AoFIjzg-jXL2qlWQOwVCNks_j/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-etalase-shopee-tiktok-36.webp",
+      "status": "ready",
+      "bytes": 32000,
+      "sourceBytes": 466562,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1iiWtRhgMf2ZVDrtmY-h1aUGURqA-km2E",
+      "title": "etalase shopee & tiktok (37).png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1iiWtRhgMf2ZVDrtmY-h1aUGURqA-km2E/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-etalase-shopee-tiktok-37.webp",
+      "status": "ready",
+      "bytes": 59564,
+      "sourceBytes": 285640,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1C4RRuksqvBOt_OZ5tcaL20jX0MlZqXVf",
+      "title": "etalase shopee & tiktok (38).png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1C4RRuksqvBOt_OZ5tcaL20jX0MlZqXVf/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-etalase-shopee-tiktok-38.webp",
+      "status": "ready",
+      "bytes": 76844,
+      "sourceBytes": 249750,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1FOj80uWybiDMjo-2BiGLUnksWDOVcjnM",
+      "title": "fc10f0fb-088d-45f1-9bc8-de2e9bde4630.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1FOj80uWybiDMjo-2BiGLUnksWDOVcjnM/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-fc10f0fb-088d-45f1-9bc8-de2e9bde4630.webp",
+      "status": "ready",
+      "bytes": 63922,
+      "sourceBytes": 1454036,
+      "originalSize": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "19yX5l2ocKLGX11-4udYYmvQhnOEk5qXF",
+      "title": "fossil zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/19yX5l2ocKLGX11-4udYYmvQhnOEk5qXF/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-fossil-zoya.webp",
+      "status": "ready",
+      "bytes": 58842,
+      "sourceBytes": 612643,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1a21-RdM-AxWUwgYcZH1j_fZdgePOjQdX",
+      "title": "frappe zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1a21-RdM-AxWUwgYcZH1j_fZdgePOjQdX/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-frappe-zoya.webp",
+      "status": "ready",
+      "bytes": 64678,
+      "sourceBytes": 638703,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1mknlJBUy0MuiH6so9hMx00Pyf6COiID9",
+      "title": "mahogany zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1mknlJBUy0MuiH6so9hMx00Pyf6COiID9/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-mahogany-zoya.webp",
+      "status": "ready",
+      "bytes": 51054,
+      "sourceBytes": 616830,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1DBTUdRoJLRJfYa1m-CqA8XQOkN5uC6Pt",
+      "title": "smoke zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1DBTUdRoJLRJfYa1m-CqA8XQOkN5uC6Pt/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-smoke-zoya.webp",
+      "status": "ready",
+      "bytes": 59156,
+      "sourceBytes": 620139,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "1d9jg3YJ382R2s0jWNbnfQseNYGdGB1mX",
+      "title": "soft lilac zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1d9jg3YJ382R2s0jWNbnfQseNYGdGB1mX/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-soft-lilac-zoya.webp",
+      "status": "ready",
+      "bytes": 62844,
+      "sourceBytes": 656295,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "id": "173LH94UdPXQJj3FXYDKj6WBDUTjLFHtH",
+      "title": "WhatsApp Image 2026-08-22 at 08.54.24.jpeg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/173LH94UdPXQJj3FXYDKj6WBDUTjLFHtH/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-whatsapp-image-2026-08-22-at-08-54-24.webp",
+      "status": "ready",
+      "bytes": 182568,
+      "sourceBytes": 632862,
+      "originalSize": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "1SjqRPSG6vJcAJyxbnGA_KJzljGEu4WWl",
+      "title": "WhatsApp Image 2026-09-02 at 11.36.59.jpeg",
+      "mimeType": "image/jpeg",
+      "sourceUrl": "https://drive.google.com/file/d/1SjqRPSG6vJcAJyxbnGA_KJzljGEu4WWl/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-whatsapp-image-2026-09-02-at-11-36-59.webp",
+      "status": "ready",
+      "bytes": 155310,
+      "sourceBytes": 200772,
+      "originalSize": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "1WFLbTTv43ETWXTmxeZ-hefHSFsSKdVr2",
+      "title": "wine zoya.png",
+      "mimeType": "image/png",
+      "sourceUrl": "https://drive.google.com/file/d/1WFLbTTv43ETWXTmxeZ-hefHSFsSKdVr2/view?usp=drivesdk",
+      "folder": "14. Zoya Instan Bamboo/warna shopee",
+      "file": "new-zoya-wine-zoya.webp",
+      "status": "ready",
+      "bytes": 56948,
+      "sourceBytes": 625296,
+      "originalSize": [
+        1080,
+        1080
+      ]
+    }
+  ]
+}
